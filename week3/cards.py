@@ -98,18 +98,18 @@ class hand_of_cards:
 
         for card in range(len(self.cards)):
             match_count = 1
-            print(match_count,": per card")
+
             for next_card in range(card+1, len(self.cards)):
                 
                 if self.cards[card].compare(self.cards[next_card]) == "==":
                     match_count+= 1
-                    print(match_count,"while counting")
+
 
                 elif match_count > match_count_master:
                     match_count_master = match_count
         if match_count_master == 1:
             match_count_master = 0
-        return match_count_master
+        return match_count_master 
 
     # each individual card that gets check needs a match counter
     # compare all match counts, return the highest one
@@ -127,8 +127,8 @@ print(card1.get_suit())
 print(card2)
 print(card1.compare(card2))
 
-result = card1 + card2
-print(result)
+result = card1 + card2      #for letter face_values, it simply adds the two strings together. 
+print(result)               #can fix this by using dictionaries, but not implemented yet
 
 
 #create deck 
@@ -178,7 +178,9 @@ new_hand.add_card(second_deck[0],second_deck)
 new_hand.add_card(second_deck[0],second_deck)
 new_hand.add_card(second_deck[0],second_deck)
 new_hand.add_card(second_deck[28],second_deck)
+
+print("\n")
 new_hand.print_hand()
 
-print(new_hand.has_match())
+print("Number of matches in new_hand:",new_hand.has_match())
 
