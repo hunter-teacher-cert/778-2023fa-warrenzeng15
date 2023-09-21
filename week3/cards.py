@@ -94,24 +94,26 @@ class hand_of_cards:
             print(self.cards)
 
     def has_match(self):
-        match_count = 0
+        match_count_master = 0
 
         for card in range(len(self.cards)):
+            match_count = 1
+            print(match_count,": per card")
             for next_card in range(card+1, len(self.cards)):
+                
                 if self.cards[card].compare(self.cards[next_card]) == "==":
                     match_count+= 1
+                    print(match_count,"while counting")
 
-        if match_count == 1:
-            match_count = 0
-        return match_count
-
-
-    #logic is wrong at the moment... the count is incorrect for matches of 4 
+                elif match_count > match_count_master:
+                    match_count_master = match_count
+        if match_count_master == 1:
+            match_count_master = 0
+        return match_count_master
 
     # each individual card that gets check needs a match counter
     # compare all match counts, return the highest one
     # if match_count is 1, then there is no match and you return 0
-
 
 
 
@@ -172,9 +174,9 @@ second_deck = [playing_card(value,suit) for value in values for suit in suits]
 print_deck(second_deck)
 new_hand = hand_of_cards()
 new_hand.add_card(second_deck[0],second_deck)
-new_hand.add_card(second_deck[1],second_deck)
-new_hand.add_card(second_deck[1],second_deck)
-new_hand.add_card(second_deck[1],second_deck)
+new_hand.add_card(second_deck[0],second_deck)
+new_hand.add_card(second_deck[0],second_deck)
+new_hand.add_card(second_deck[0],second_deck)
 new_hand.add_card(second_deck[28],second_deck)
 new_hand.print_hand()
 
