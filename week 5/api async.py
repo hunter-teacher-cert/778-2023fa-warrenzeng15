@@ -16,10 +16,9 @@ url = "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY"
 response = requests.get(url)
 data = response.json()
 
-# Create a simple DataFrame with one column for keys and one column for values
 df = pd.DataFrame(data.items())
 
-# Print the DataFrame
+# print the DataFrame
 print(df)
 print("")
 print("Address of the NASA Photo of the day:", df.at[7,1])
@@ -32,26 +31,26 @@ print("")
 client = Socrata("data.ny.gov", None)
 print("")
 
-# target_city = input("Please enter a city: ")
-# target_city = target_city.upper()       #all the cities are uppercase
+target_city = input("Please enter a city: ")
+target_city = target_city.upper()       #all the cities are uppercase
 
-# results = client.get("qfsu-zcpv", city= target_city, select="phone_number,lat,long")
+results = client.get("qfsu-zcpv", city= target_city, select="phone_number,lat,long")
 
-##print(results)
+#print(results)
 
-# phone_number = results[0]['phone_number']
-# lat = results[0]['lat']
-# long = results[0]['long']
+phone_number = results[0]['phone_number']
+lat = results[0]['lat']
+long = results[0]['long']
 
-# print("The phone number of the fire department in", target_city, "is: ")
-# print(phone_number)
+print("The phone number of the fire department in", target_city, "is: ")
+print(phone_number)
 
-# print("The google maps link for the fire department in", target_city, "is: ")
+print("The google maps link for the fire department in", target_city, "is: ")
 
-# maps_url = "https://www.google.com/maps/place/" + lat + "+" +long
+maps_url = "https://www.google.com/maps/place/" + lat + "+" +long
 
-# print(maps_url)
-# print("")
+print(maps_url)
+print("")
 
 
 
@@ -80,6 +79,4 @@ target_park = int(target_park)
 attendance = results[target_park]['Attendance']
 
 print("Attendance number in 2022 for that park was: ", attendance)
-
-
 
