@@ -25,8 +25,6 @@ speaker = espeak.Espeak()
 
 # results = client.get("55zc-sp6m", county_of_indictment = target_county, snapshot_year = '2023', select = 'most_serious_crime, current_age', limit = 50000)
 
-# print(results)
-
 
 # for inmate in results:
 #     print("Most serious crime:", inmate['most_serious_crime'], ".   And their age is: ", inmate['current_age'])
