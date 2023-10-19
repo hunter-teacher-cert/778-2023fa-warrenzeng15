@@ -15,3 +15,5 @@ As such, there will be a negative psychological impact on student's test taking 
 Lockdown browsers exacerbate inequities for students. Some students may not have appropriate equipment in order to use the software, in which case they would need to find another device or borrow one. Students with older equipment may experience more errors in their devices if they freeze or glitch. There's also an issue with wifi connections -- students with poorer connections may experience more difficulties with lockdown browsers. It's so bad that even bad lighting in a room could cause problems during an exam.
 
 As for any computer software, there may be bugs and glitches with the software itself. Troubleshooting things in the middle of an exam is an annoyance and could break people's focus. Sometimes, if there is an issue that can't be fixed, the student may not even be able to complete the exam at the time.
+
+The resources that I used can be found in the slides pdf file
