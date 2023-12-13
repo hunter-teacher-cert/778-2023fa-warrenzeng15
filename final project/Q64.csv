@@ -1,0 +1,38 @@
+latitude,longitude,radius_searched,number_of_stops,number_of_bus_stops,number_of_metro_stops,google_maps_link,stop_name
+40.724161,-73.845184,400.0,13,9,4,"https://www.google.com/maps/search/?api=1&query=40.724161,-73.845184",108 ST/69 RD
+40.722097,-73.844686,400.0,19,9,4,"https://www.google.com/maps/search/?api=1&query=40.722097,-73.844686",QUEENS BL/70 RD
+40.723647,-73.844536,400.0,13,9,4,"https://www.google.com/maps/search/?api=1&query=40.723647,-73.844536",JEWEL AV/108 ST
+40.724329,-73.84231,400.0,13,9,4,"https://www.google.com/maps/search/?api=1&query=40.724329,-73.84231",JEWEL AV/110 ST
+40.724981,-73.840084,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.724981,-73.840084",JEWEL AV/112 ST
+40.727921,-73.831391,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.727921,-73.831391",JEWEL AV/PARK DR E
+40.728112,-73.831637,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.728112,-73.831637",JEWEL AV/PARK DR E
+40.728307,-73.829157,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.728307,-73.829157",JEWEL AV/136 ST
+40.728303,-73.829651,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.728303,-73.829651",JEWEL AV/136 ST
+40.728884,-73.827289,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.728884,-73.827289",JEWEL AV/138 ST
+40.728893,-73.827823,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.728893,-73.827823",JEWEL AV/138 ST
+40.729517,-73.824965,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.729517,-73.824965",JEWEL AV/140 ST
+40.729493,-73.82574,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.729493,-73.82574",JEWEL AV/140 ST
+40.730057,-73.823129,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.730057,-73.823129",JEWEL AV/MAIN ST
+40.730024,-73.823774,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.730024,-73.823774",JEWEL AV/MAIN ST
+40.73061,-73.821277,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.73061,-73.821277",JEWEL AV/147 ST
+40.730635,-73.821746,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.730635,-73.821746",JEWEL AV/147 ST
+40.73128,-73.819018,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.73128,-73.819018",JEWEL AV/150 ST
+40.731391,-73.819207,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.731391,-73.819207",JEWEL AV/150 ST
+40.731753,-73.817352,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.731753,-73.817352",JEWEL AV/152 ST
+40.731808,-73.817786,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.731808,-73.817786",JEWEL AV/152 ST
+40.731934,-73.814648,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.731934,-73.814648",JEWEL AV/KISSENA BL
+40.732042,-73.812618,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.732042,-73.812618",JEWEL AV/KISSENA BL
+40.732135,-73.815248,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.732135,-73.815248",JEWEL AV/KISSENA BL
+40.732156,-73.810937,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.732156,-73.810937",PARSONS BL/JEWEL AV
+40.730392,-73.810993,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.730392,-73.810993",PARSONS BL/71 AV
+40.73038,-73.806953,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.73038,-73.806953",71 AV/162 ST
+40.730424,-73.805354,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.730424,-73.805354",71 AV/164 ST
+40.731841,-73.805384,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.731841,-73.805384",JEWEL AV/164 ST
+40.732107,-73.808141,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.732107,-73.808141",JEWEL AV/161 ST
+40.732469,-73.811062,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.732469,-73.811062",JEWEL AV/PARSONS BL
+40.732236,-73.812835,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.732236,-73.812835",JEWEL AV/PARSONS BL
+40.725655,-73.840949,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.725655,-73.840949",69 RD/112 ST
+40.725008,-73.84317,400.0,13,9,4,"https://www.google.com/maps/search/?api=1&query=40.725008,-73.84317",69 RD/110 ST
+40.721784,-73.843949,400.0,19,9,4,"https://www.google.com/maps/search/?api=1&query=40.721784,-73.843949",108 ST/QUEENS BL
+40.721815,-73.843925,400.0,19,9,4,"https://www.google.com/maps/search/?api=1&query=40.721815,-73.843925",108 ST/QUEENS BL
+40.73182,-73.805313,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.73182,-73.805313",JEWEL AV/164 ST

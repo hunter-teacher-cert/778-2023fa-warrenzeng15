@@ -1,0 +1,69 @@
+latitude,longitude,radius_searched,number_of_stops,number_of_bus_stops,number_of_metro_stops,google_maps_link,stop_name
+40.699516,-73.911851,400.0,8,6,2,"https://www.google.com/maps/search/?api=1&query=40.699516,-73.911851",MYRTLE AV/PALMETTO AV
+40.700465,-73.90999,400.0,9,7,2,"https://www.google.com/maps/search/?api=1&query=40.700465,-73.90999",PALMETTO ST/WYCKOFF AV
+40.700854,-73.838999,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.700854,-73.838999",MYRTLE AV/85 AV
+40.70271,-73.855884,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.70271,-73.855884",MYRTLE AV/WOODHAVEN BL
+40.699865,-73.907949,400.0,9,7,2,"https://www.google.com/maps/search/?api=1&query=40.699865,-73.907949",MYRTLE AV/MADISON ST
+40.70087,-73.892934,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.70087,-73.892934",MYRTLE AV/62 ST
+40.70102,-73.891062,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.70102,-73.891062",MYRTLE AV/CYPRESS HILLS ST
+40.701863,-73.88111,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.701863,-73.88111",MYRTLE AV/70 ST
+40.702362,-73.874956,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.702362,-73.874956",MYRTLE AV/73 PL
+40.702546,-73.872648,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.702546,-73.872648",MYRTLE AV/76 ST
+40.702774,-73.869881,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.702774,-73.869881",MYRTLE AV/79 PL
+40.702987,-73.867327,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.702987,-73.867327",MYRTLE AV/81 ST
+40.703217,-73.861495,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.703217,-73.861495",MYRTLE AV/81 AV
+40.70312,-73.865726,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.70312,-73.865726",MYRTLE AV/83 ST
+40.703272,-73.863875,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.703272,-73.863875",MYRTLE AV/85 ST
+40.702931,-73.858928,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.702931,-73.858928",MYRTLE AV/88 ST
+40.702745,-73.857193,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.702745,-73.857193",MYRTLE AV/88 LA
+40.70257,-73.855571,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.70257,-73.855571",MYRTLE AV/WOODHAVEN BL N
+40.702473,-73.854705,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.702473,-73.854705",MYRTLE AV/WOODHAVEN BL F
+40.701998,-73.850375,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.701998,-73.850375",MYRTLE AV/FREEDOM DR
+40.701117,-73.842381,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.701117,-73.842381",MYRTLE AV/108 ST
+40.700778,-73.839273,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.700778,-73.839273",MYRTLE AV/111 ST
+40.700419,-73.836043,400.0,6,4,2,"https://www.google.com/maps/search/?api=1&query=40.700419,-73.836043",MYRTLE AV/114 ST
+40.700305,-73.834997,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.700305,-73.834997",MYRTLE AV/115 ST
+40.699626,-73.832564,400.0,6,4,2,"https://www.google.com/maps/search/?api=1&query=40.699626,-73.832564",117 ST/JAMAICA AV
+40.700156,-73.832534,400.0,6,4,2,"https://www.google.com/maps/search/?api=1&query=40.700156,-73.832534",MYRTLE AV/HILLSIDE AV
+40.700387,-73.834762,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.700387,-73.834762",MYRTLE AV/115 ST
+40.701097,-73.841261,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.701097,-73.841261",MYRTLE AV/PARK LA S
+40.702127,-73.850573,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.702127,-73.850573",MYRTLE AV/FREEDOM DR
+40.702613,-73.855012,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.702613,-73.855012",MYRTLE AV/WOODHAVEN BL
+40.702944,-73.85827,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.702944,-73.85827",MYRTLE AV/82 AV
+40.703282,-73.861084,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.703282,-73.861084",MYRTLE AV/81 AV
+40.703352,-73.86421,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.703352,-73.86421",MYRTLE AV/85 ST
+40.7032,-73.86605,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.7032,-73.86605",MYRTLE AV/83 ST
+40.703067,-73.867666,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.703067,-73.867666",MYRTLE AV/81 ST
+40.702786,-73.871097,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.702786,-73.871097",MYRTLE AV/79 ST
+40.702629,-73.873005,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.702629,-73.873005",MYRTLE AV/76 ST
+40.702468,-73.874914,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.702468,-73.874914",MYRTLE AV/74 ST
+40.702297,-73.876846,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.702297,-73.876846",MYRTLE AV/73 ST
+40.70184,-73.882712,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.70184,-73.882712",MYRTLE AV/69 ST
+40.701689,-73.884551,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.701689,-73.884551",MYRTLE AV/68 ST
+40.701527,-73.88638,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.701527,-73.88638",MYRTLE AV/67 ST
+40.701318,-73.888763,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.701318,-73.888763",MYRTLE AV/66 ST
+40.701134,-73.890809,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.701134,-73.890809",MYRTLE AV/CYPRESS HILLS ST
+40.701015,-73.892343,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.701015,-73.892343",MYRTLE AV/64 ST
+40.700847,-73.894342,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.700847,-73.894342",MYRTLE AV/FRESH POND RD
+40.700647,-73.896718,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.700647,-73.896718",MYRTLE AV/60 LA
+40.700551,-73.898796,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.700551,-73.898796",MYRTLE AV/60 ST
+40.700529,-73.900639,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.700529,-73.900639",MYRTLE AV/FOREST AV
+40.700517,-73.901953,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.700517,-73.901953",MYRTLE AV/ONDERDONK AV
+40.700403,-73.904216,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.700403,-73.904216",MYRTLE AV/SENECA AV
+40.700108,-73.906773,400.0,8,7,1,"https://www.google.com/maps/search/?api=1&query=40.700108,-73.906773",MYRTLE AV/CYPRESS AV
+40.699904,-73.908551,400.0,9,7,2,"https://www.google.com/maps/search/?api=1&query=40.699904,-73.908551",MYRTLE AV/ST NICHOLAS AV
+40.700562,-73.83632,400.0,5,3,2,"https://www.google.com/maps/search/?api=1&query=40.700562,-73.83632",MYRTLE AV/114 ST
+40.70125,-73.888451,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.70125,-73.888451",MYRTLE AV/65 PL
+40.701362,-73.887109,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.701362,-73.887109",MYRTLE AV/66 PL
+40.701519,-73.885255,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.701519,-73.885255",MYRTLE AV/67 PL
+40.701712,-73.882925,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.701712,-73.882925",MYRTLE AV/69 ST
+40.702077,-73.878358,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.702077,-73.878358",MYRTLE AV/72 ST
+40.700176,-73.905251,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.700176,-73.905251",MYRTLE AV/CORNELIA ST
+40.700407,-73.90308,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.700407,-73.90308",MYRTLE AV/SENECA AV
+40.700441,-73.900995,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.700441,-73.900995",MYRTLE AV/CENTRE ST
+40.700451,-73.89961,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.700451,-73.89961",MYRTLE AV/FOREST AV
+40.700585,-73.896364,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.700585,-73.896364",MYRTLE AV/SUMMERFIELD ST
+40.702102,-73.879366,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.702102,-73.879366",MYRTLE AV/71 PL
+40.700148,-73.832469,400.0,6,4,2,"https://www.google.com/maps/search/?api=1&query=40.700148,-73.832469",MYRTLE AV/HILLSIDE AV
+40.700101,-73.910358,400.0,9,7,2,"https://www.google.com/maps/search/?api=1&query=40.700101,-73.910358",PALMETTO ST/MYRTLE AV
+40.69828,-73.912174,400.0,8,6,2,"https://www.google.com/maps/search/?api=1&query=40.69828,-73.912174",palmetto st/irving av

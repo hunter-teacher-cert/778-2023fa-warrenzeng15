@@ -1,0 +1,30 @@
+latitude,longitude,radius_searched,number_of_stops,number_of_bus_stops,number_of_metro_stops,google_maps_link,neighborhood
+
+40.6527,-74.0093,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.6527,-74.0093",Sunset Park
+
+40.6350,-73.9921,400.0,6,5,1,"https://www.google.com/maps/search/?api=1&query=40.6350,-73.9921",Borough Park
+
+40.6484,-73.9801,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.6484,-73.9801",Kensington
+
+40.6204,-73.9600,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.6204,-73.9600",Midwood
+
+40.6415,-73.9594,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.6415,-73.9594",Flatbush
+
+40.6618,-73.8931,400.0,7,3,4,"https://www.google.com/maps/search/?api=1&query=40.6618,-73.8931",New Lots
+
+40.6652,-73.9125,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.6652,-73.9125",Brownsville
+
+40.6591,-73.8759,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.6591,-73.8759",East New York
+
+40.6958,-73.9171,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.6958,-73.9171",Bushwick
+
+40.7044,-73.9018,400.0,6,5,1,"https://www.google.com/maps/search/?api=1&query=40.7044,-73.9018",Ridgewood
+
+40.7174,-73.8743,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.7174,-73.8743",Middle Village
+
+40.7294,-73.9066,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.7294,-73.9066",Maspeth
+
+40.7394,-73.8779,400.0,8,5,3,"https://www.google.com/maps/search/?api=1&query=40.7394,-73.8779",Elmhurst
+
+40.7557,-73.8831,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.7557,-73.8831",Jackson Heights
+

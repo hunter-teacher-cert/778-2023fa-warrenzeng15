@@ -1,0 +1,137 @@
+latitude,longitude,radius_searched,number_of_stops,number_of_bus_stops,number_of_metro_stops,google_maps_link,stop_name
+40.712412,-73.938816,400.0,3,2,1,"https://www.google.com/maps/search/?api=1&query=40.712412,-73.938816",GRAND ST/OLIVE ST
+40.711905,-73.941236,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.711905,-73.941236",GRAND ST/BUSHWICK AV
+40.709501,-73.95729,400.0,13,10,3,"https://www.google.com/maps/search/?api=1&query=40.709501,-73.95729",MARCY AV/S 4 ST
+40.708638,-73.958417,400.0,13,10,3,"https://www.google.com/maps/search/?api=1&query=40.708638,-73.958417",BROADWAY/MARCY AV
+40.708916,-73.956082,400.0,13,10,3,"https://www.google.com/maps/search/?api=1&query=40.708916,-73.956082",RODNEY ST/S 5 ST
+40.710246,-73.955254,400.0,12,9,3,"https://www.google.com/maps/search/?api=1&query=40.710246,-73.955254",RODNEY ST/S 3 ST
+40.710775,-73.952412,400.0,6,5,1,"https://www.google.com/maps/search/?api=1&query=40.710775,-73.952412",BORINQUEN PL/S 1 ST
+40.711655,-73.943117,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.711655,-73.943117",GRAND ST/GRAHAM AV
+40.712415,-73.938437,400.0,3,2,1,"https://www.google.com/maps/search/?api=1&query=40.712415,-73.938437",GRAND ST/WATERBURY ST
+40.713293,-73.934906,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.713293,-73.934906",GRAND ST/MORGAN AV
+40.713899,-73.925825,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.713899,-73.925825",METROPOLITAN AV/GARDNER AV
+40.714199,-73.92684,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.714199,-73.92684",METROPOLITAN AV/GARDNER AV
+40.71343,-73.934716,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.71343,-73.934716",GRAND ST/MORGAN AV
+40.711605,-73.944534,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.711605,-73.944534",GRAND ST/GRAHAM AV
+40.711154,-73.949291,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.711154,-73.949291",GRAND ST/LORIMER ST
+40.714024,-73.932089,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.714024,-73.932089",GRAND ST/METRO BRIDGE
+40.714416,-73.929401,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.714416,-73.929401",METROPOLITAN AV/VARICK AV
+40.711148,-73.948499,400.0,8,6,2,"https://www.google.com/maps/search/?api=1&query=40.711148,-73.948499",GRAND ST/LORIMER ST
+40.709434,-73.95931,400.0,13,10,3,"https://www.google.com/maps/search/?api=1&query=40.709434,-73.95931",WASHINGTON PLZ / WASHINGTON PLZ
+40.710714,-73.95392,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.710714,-73.95392",BORINQUEN PL/S 1 ST
+40.71405,-73.927647,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.71405,-73.927647",METROPOLITAN AV/STEWART AV
+40.711017,-73.950982,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.711017,-73.950982",GRAND ST/UNION AV
+40.71094,-73.950691,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.71094,-73.950691",GRAND ST/UNION AV
+40.714014,-73.924056,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.714014,-73.924056",METROPOLITAN AV/ONDERDONK AV
+40.712062,-73.940017,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.712062,-73.940017",GRAND ST/BUSHWICK AV
+40.707549,-73.789882,400.0,14,14,0,"https://www.google.com/maps/search/?api=1&query=40.707549,-73.789882",170 ST/JAMAICA AV
+40.702228,-73.804326,400.0,33,30,3,"https://www.google.com/maps/search/?api=1&query=40.702228,-73.804326",JAMAICA AV/150 ST
+40.706762,-73.791452,400.0,34,34,0,"https://www.google.com/maps/search/?api=1&query=40.706762,-73.791452",JAMAICA AV/168 PL
+40.70323,-73.800447,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.70323,-73.800447",JAMAICA AV/PARSONS BL
+40.712937,-73.906296,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.712937,-73.906296",METROPOLITAN AV/FOREST AV
+40.713126,-73.909323,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.713126,-73.909323",METROPOLITAN AV/ANDREWS AV
+40.706408,-73.792308,400.0,34,34,0,"https://www.google.com/maps/search/?api=1&query=40.706408,-73.792308",JAMAICA AV/168 ST
+40.702366,-73.81695,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.702366,-73.81695",JAMAICA AV/VAN WYCK EP
+40.702373,-73.812541,400.0,14,11,3,"https://www.google.com/maps/search/?api=1&query=40.702373,-73.812541",JAMAICA AV/139 ST
+40.702126,-73.820801,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.702126,-73.820801",JAMAICA AV/132 ST
+40.702222,-73.820361,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.702222,-73.820361",132 ST/JAMAICA AV
+40.705603,-73.79448,400.0,37,37,0,"https://www.google.com/maps/search/?api=1&query=40.705603,-73.79448",JAMAICA AV/165 ST
+40.71335,-73.914305,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.71335,-73.914305",METROPOLITAN AV/STARR ST
+40.701795,-73.807803,400.0,33,19,3,"https://www.google.com/maps/search/?api=1&query=40.701795,-73.807803",JAMAICA AV/SUTPHIN BL
+40.712277,-73.891242,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.712277,-73.891242",METROPOLITAN AV/TOYS R US
+40.701715,-73.807033,400.0,40,26,3,"https://www.google.com/maps/search/?api=1&query=40.701715,-73.807033",JAMAICA AV/147 PL
+40.702449,-73.81507,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.702449,-73.81507",JAMAICA AV/138 ST
+40.713571,-73.916123,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.713571,-73.916123",METROPOLITAN AV/FLUSHING AV
+40.708462,-73.838588,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.708462,-73.838588",METROPOLITAN AV/FOREST PARK DR
+40.703254,-73.800661,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.703254,-73.800661",JAMAICA AV/PARSONS BL
+40.704502,-73.797125,400.0,40,40,0,"https://www.google.com/maps/search/?api=1&query=40.704502,-73.797125",JAMAICA AV/GUY R BREWER BL
+40.704244,-73.798183,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.704244,-73.798183",JAMAICA AV/162 ST
+40.702459,-73.81799,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.702459,-73.81799",JAMAICA AV/METROPOLITAN AV
+40.702136,-73.810958,400.0,30,15,5,"https://www.google.com/maps/search/?api=1&query=40.702136,-73.810958",JAMAICA AV/144 PL
+40.702306,-73.811385,400.0,30,15,5,"https://www.google.com/maps/search/?api=1&query=40.702306,-73.811385",JAMAICA AV/144 ST
+40.702584,-73.81414,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.702584,-73.81414",JAMAICA AV/QUEENS BL
+40.713716,-73.920198,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.713716,-73.920198",METROPOLITAN AV/WOODWARD AV
+40.713588,-73.918113,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.713588,-73.918113",METROPOLITAN AV/H C BOHACK GATE
+40.713227,-73.912451,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.713227,-73.912451",METROPOLITAN AV/GRANDVIEW AV
+40.713027,-73.909316,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.713027,-73.909316",METROPOLITAN AV/AMORY CT
+40.712821,-73.905623,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.712821,-73.905623",METROPOLITAN AV/FOREST AV
+40.712769,-73.9033,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.712769,-73.9033",METROPOLITAN AV/60 PL
+40.712681,-73.901771,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.712681,-73.901771",METROPOLITAN AV/61 ST
+40.712618,-73.899752,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.712618,-73.899752",METROPOLITAN AV/FRESH POND RD
+40.712428,-73.895498,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.712428,-73.895498",METROPOLITAN AV/65 ST
+40.712209,-73.888667,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.712209,-73.888667",METROPOLITAN AV/ METRO AV EL STA
+40.71212,-73.88586,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.71212,-73.88586",METROPOLITAN AV/69 ST
+40.7122,-73.883985,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.7122,-73.883985",METROPOLITAN AV/71 ST
+40.712431,-73.881632,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.712431,-73.881632",METROPOLITAN AV/PLEASANT VIEW ST
+40.712706,-73.878927,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.712706,-73.878927",METROPOLITAN AV/73 PL
+40.712877,-73.877289,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.712877,-73.877289",METROPOLITAN AV/75 ST
+40.713051,-73.875607,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.713051,-73.875607",METROPOLITAN AV/78 ST
+40.713164,-73.873713,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.713164,-73.873713",METROPOLITAN AV/79 ST
+40.712077,-73.861697,400.0,10,10,0,"https://www.google.com/maps/search/?api=1&query=40.712077,-73.861697",METROPOLITAN AV/COOPER AV
+40.711664,-73.858974,400.0,10,10,0,"https://www.google.com/maps/search/?api=1&query=40.711664,-73.858974",METROPOLITAN AV/WOODHAVEN BL
+40.711334,-73.856918,400.0,10,10,0,"https://www.google.com/maps/search/?api=1&query=40.711334,-73.856918",METROPOLITAN AV/SELFRIDGE ST
+40.710971,-73.854466,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.710971,-73.854466",METROPOLITAN AV/69 RD
+40.710646,-73.852411,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.710646,-73.852411",METROPOLITAN AV/70 RD
+40.710321,-73.850295,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.710321,-73.850295",METROPOLITAN AV/71 AV
+40.709917,-73.847742,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.709917,-73.847742",METROPOLITAN AV/72 AV
+40.709606,-73.84591,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.709606,-73.84591",METROPOLITAN AV/72 DR
+40.709306,-73.843866,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.709306,-73.843866",METROPOLITAN AV/UNION TPK
+40.707775,-73.836774,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.707775,-73.836774",METROPOLITAN AV/PARK LA S
+40.706888,-73.834531,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.706888,-73.834531",METROPOLITAN AV/118 ST
+40.705969,-73.831302,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.705969,-73.831302",METROPOLITAN AV/LEFFERTS BL
+40.705404,-73.829288,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.705404,-73.829288",METROPOLITAN AV/BREVOORT ST
+40.704944,-73.827758,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.704944,-73.827758",METROPOLITAN AV/124 ST
+40.703712,-73.82302,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.703712,-73.82302",METROPOLITAN AV/HILLSIDE AV
+40.703227,-73.820598,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.703227,-73.820598",METROPOLITAN AV/132 ST
+40.702355,-73.818286,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.702355,-73.818286",JAMAICA AV/134 ST
+40.702504,-73.81577,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.702504,-73.81577",JAMAICA AV/138 ST
+40.703938,-73.823869,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.703938,-73.823869",METROPOLITAN AV/129 ST
+40.704872,-73.827177,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.704872,-73.827177",METROPOLITAN AV/125 ST
+40.705685,-73.830026,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.705685,-73.830026",METROPOLITAN AV/BREVOORT ST
+40.706296,-73.832216,400.0,10,3,0,"https://www.google.com/maps/search/?api=1&query=40.706296,-73.832216",METROPOLITAN AV/LEFFERTS BL
+40.708029,-73.837264,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.708029,-73.837264",METROPOLITAN AV/PARK LA S
+40.708626,-73.839131,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.708626,-73.839131",METROPOLITAN AV/FOREST PARK DR
+40.709507,-73.844554,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.709507,-73.844554",METROPOLITAN AV/75 AV
+40.70981,-73.846411,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.70981,-73.846411",METROPOLITAN AV/ASCAN AV
+40.710197,-73.848842,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.710197,-73.848842",METROPOLITAN AV/72 AV
+40.710624,-73.851574,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.710624,-73.851574",METROPOLITAN AV/71 AV
+40.711236,-73.85551,400.0,10,10,0,"https://www.google.com/maps/search/?api=1&query=40.711236,-73.85551",METROPOLITAN AV/69 AV
+40.713327,-73.872028,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.713327,-73.872028",METROPOLITAN AV/80 ST
+40.713228,-73.874727,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.713228,-73.874727",METROPOLITAN AV/79 ST
+40.712825,-73.878736,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.712825,-73.878736",METROPOLITAN AV/74 ST
+40.712455,-73.882484,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.712455,-73.882484",METROPOLITAN AV/PLEASANT VIEW ST
+40.712253,-73.884717,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.712253,-73.884717",METROPOLITAN AV/71 ST
+40.712258,-73.88683,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.712258,-73.88683",METROPOLITAN AV/69 ST
+40.712327,-73.889302,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.712327,-73.889302",METROPOLITAN AV/ METRO EL STATION
+40.712511,-73.894975,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.712511,-73.894975",METROPOLITAN AV/MT OLIVET CR
+40.71258,-73.896584,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.71258,-73.896584",METROPOLITAN AV/65 ST
+40.712776,-73.901445,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.712776,-73.901445",METROPOLITAN AV/FRESH POND RD
+40.712858,-73.90335,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.712858,-73.90335",METROPOLITAN AV/60 LA
+40.712885,-73.904369,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.712885,-73.904369",METROPOLITAN AV/ELIOT AV
+40.713255,-73.911182,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.713255,-73.911182",METROPOLITAN AV/ARNOLD AV
+40.713372,-73.912825,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.713372,-73.912825",METROPOLITAN AV/NURGE AV
+40.707288,-73.78958,400.0,18,18,0,"https://www.google.com/maps/search/?api=1&query=40.707288,-73.78958",JAMAICA AV/170 ST
+40.712712,-73.899796,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.712712,-73.899796",METROPOLITAN AV/62 ST
+40.707264,-73.835318,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.707264,-73.835318",METROPOLITAN AV/83 AV
+40.712501,-73.897269,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.712501,-73.897269",METROPOLITAN AV/ADMIRAL AV
+40.713822,-73.920373,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.713822,-73.920373",METROPOLITAN AV/WOODWARD AV
+40.710924,-73.853471,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.710924,-73.853471",METROPOLITAN AV/70 AV
+40.711974,-73.860333,400.0,10,10,0,"https://www.google.com/maps/search/?api=1&query=40.711974,-73.860333",METROPOLITAN AV/WOODHAVEN BL
+40.704465,-73.826013,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.704465,-73.826013",METROPOLITAN AV/125 ST
+40.705576,-73.794776,400.0,37,37,0,"https://www.google.com/maps/search/?api=1&query=40.705576,-73.794776",JAMAICA AV/165 ST
+40.702037,-73.804615,400.0,33,30,3,"https://www.google.com/maps/search/?api=1&query=40.702037,-73.804615",JAMAICA AV/150 ST
+40.711892,-73.860492,400.0,10,10,0,"https://www.google.com/maps/search/?api=1&query=40.711892,-73.860492",METROPOLITAN AV/AUBREY AV
+40.713953,-73.923842,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.713953,-73.923842",METROPOLITAN AV/ONDERDONK AV
+40.709909,-73.868064,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.709909,-73.868064",COOPER AV/ATLAS PARK MALL
+40.71064,-73.865418,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.71064,-73.865418",COOPER AV/84 ST
+40.711698,-73.863217,400.0,10,10,0,"https://www.google.com/maps/search/?api=1&query=40.711698,-73.863217",COOPER AV/METROPOLITAN AV
+40.710799,-73.86513,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.710799,-73.86513",COOPER AV/88 ST
+40.709833,-73.87022,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.709833,-73.87022",80 ST/COOPER AV
+40.711204,-73.870824,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.711204,-73.870824",80TH ST / 68TH AVE
+40.71318,-73.871642,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.71318,-73.871642",80 ST/METROPOLITAN AV
+40.710649,-73.870768,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.710649,-73.870768",80 ST/68 RD
+40.703676,-73.799281,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.703676,-73.799281",JAMAICA AV/160 ST
+40.711664,-73.85845,400.0,10,10,0,"https://www.google.com/maps/search/?api=1&query=40.711664,-73.85845",METROPOLITAN AV/ALDERTON AV
+40.703279,-73.821398,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.703279,-73.821398",131 ST/METROPOLITAN AV
+40.711239,-73.856233,400.0,10,10,0,"https://www.google.com/maps/search/?api=1&query=40.711239,-73.856233",METROPOLITAN AV/SELFRIDGE ST
+40.709503,-73.959523,400.0,13,10,3,"https://www.google.com/maps/search/?api=1&query=40.709503,-73.959523",WASHINGTON PLZ/BAY 3

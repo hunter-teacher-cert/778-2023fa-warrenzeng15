@@ -1,0 +1,67 @@
+latitude,longitude,radius_searched,number_of_stops,number_of_bus_stops,number_of_metro_stops,google_maps_link,stop_name
+40.705465,-73.803513,400.0,21,19,2,"https://www.google.com/maps/search/?api=1&query=40.705465,-73.803513",153 ST /89 AV
+40.702998,-73.802273,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.702998,-73.802273",153 ST /JAMAICA AV
+40.702782,-73.798612,400.0,32,29,3,"https://www.google.com/maps/search/?api=1&query=40.702782,-73.798612",ARCHER AV /160 ST
+40.680473,-73.842372,400.0,10,9,1,"https://www.google.com/maps/search/?api=1&query=40.680473,-73.842372",ROCKAWAY BL /LIBERTY AV
+40.691734,-73.81117,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.691734,-73.81117",LIBERTY AV /VAN WYCK EXP
+40.692205,-73.809362,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.692205,-73.809362",LIBERTY AV /REMINGTON ST
+40.693377,-73.807733,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.693377,-73.807733",LIBERTY AV /INWOOD ST
+40.69481,-73.805955,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.69481,-73.805955",LIBERTY AV /LIVERPOOL ST
+40.692667,-73.80908,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.692667,-73.80908",LIBERTY AV /REMINGTON ST
+40.694271,-73.807075,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.694271,-73.807075",LIBERTY AV /ALLENDALE ST
+40.706713,-73.802335,400.0,12,10,2,"https://www.google.com/maps/search/?api=1&query=40.706713,-73.802335",88 AV /PARSONS BL
+40.699961,-73.793621,400.0,11,11,0,"https://www.google.com/maps/search/?api=1&query=40.699961,-73.793621",GUY R BREWER BL /TUSKEGEE AIRMEN WAY
+40.700927,-73.794296,400.0,16,16,0,"https://www.google.com/maps/search/?api=1&query=40.700927,-73.794296",GUY R BREWER BL /LIBERTY AV
+40.701425,-73.794898,400.0,25,25,0,"https://www.google.com/maps/search/?api=1&query=40.701425,-73.794898",GUY R BREWER BL /LIBERTY AV
+40.703193,-73.795858,400.0,30,30,0,"https://www.google.com/maps/search/?api=1&query=40.703193,-73.795858",GUY R BREWER BL /ARCHER AV
+40.703099,-73.796108,400.0,30,30,0,"https://www.google.com/maps/search/?api=1&query=40.703099,-73.796108",GUY R BREWER BL /ARCHER AV
+40.705864,-73.801776,400.0,21,19,2,"https://www.google.com/maps/search/?api=1&query=40.705864,-73.801776",PARSONS BL /89 AV
+40.681321,-73.83882,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.681321,-73.83882",LIBERTY AV /102 ST
+40.682029,-73.836716,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.682029,-73.836716",LIBERTY AV /104 ST
+40.682904,-73.835064,400.0,3,2,1,"https://www.google.com/maps/search/?api=1&query=40.682904,-73.835064",LIBERTY AV /106 ST
+40.683696,-73.833489,400.0,3,2,1,"https://www.google.com/maps/search/?api=1&query=40.683696,-73.833489",LIBERTY AV /108 ST
+40.684369,-73.831837,400.0,3,2,1,"https://www.google.com/maps/search/?api=1&query=40.684369,-73.831837",LIBERTY AV /110 ST
+40.684771,-73.83084,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.684771,-73.83084",LIBERTY AV /111 ST
+40.684736,-73.831369,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.684736,-73.831369",LIBERTY AV /111 ST
+40.685432,-73.829187,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.685432,-73.829187",LIBERTY AV /113 ST
+40.685398,-73.829702,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.685398,-73.829702",LIBERTY AV /113 ST
+40.685808,-73.826617,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.685808,-73.826617",LIBERTY AV /116 ST
+40.686132,-73.824986,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.686132,-73.824986",LIBERTY AV /LEFFERTS BL
+40.686915,-73.822161,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.686915,-73.822161",LIBERTY AV /121 ST
+40.687034,-73.822472,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.687034,-73.822472",LIBERTY AV /121 ST
+40.687553,-73.82054,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.687553,-73.82054",LIBERTY AV /123 ST
+40.688273,-73.818732,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.688273,-73.818732",LIBERTY AV /126 ST
+40.688839,-73.81722,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.688839,-73.81722",LIBERTY AV /128 ST
+40.689489,-73.815614,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.689489,-73.815614",LIBERTY AV /130 ST
+40.690423,-73.814132,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.690423,-73.814132",LIBERTY AV /132 ST
+40.690766,-73.814022,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.690766,-73.814022",LIBERTY AV /132 ST
+40.691239,-73.812869,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.691239,-73.812869",LIBERTY AV /134 ST
+40.69157,-73.812541,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.69157,-73.812541",LIBERTY AV /134 ST
+40.694971,-73.804791,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.694971,-73.804791",WALTHAM ST /105 AV
+40.693878,-73.803206,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.693878,-73.803206",WALTHAM ST/TUSKEGEE AIRMEN WAY
+40.694362,-73.802177,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.694362,-73.802177",TUSKEGEE AIRMEN WAY/SUTPHIN BL
+40.694765,-73.802036,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.694765,-73.802036",TUSKEGEE AIRMEN WAY/SUTPHIN BL
+40.695911,-73.800303,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.695911,-73.800303",TUSKEGEE AIRMEN WAY/153 ST
+40.696468,-73.799913,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.696468,-73.799913",TUSKEGEE AIRMEN WAY/154 ST
+40.69694,-73.798945,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.69694,-73.798945",TUSKEGEE AIRMEN WAY/155 ST
+40.697556,-73.798617,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.697556,-73.798617",TUSKEGEE AIRMEN WAY/156 ST
+40.6983,-73.797166,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.6983,-73.797166",TUSKEGEE AIRMEN WAY/157 ST
+40.699056,-73.795388,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.699056,-73.795388",TUSKEGEE AIRMEN WAY /160 ST
+40.699669,-73.794047,400.0,11,11,0,"https://www.google.com/maps/search/?api=1&query=40.699669,-73.794047",TUSKEGEE AIRMEN WAY/GUY R BREWER BL
+40.698868,-73.796386,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.698868,-73.796386",TUSKEGEE AIRMEN WAY/159 ST
+40.695557,-73.801099,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.695557,-73.801099",TUSKEGEE AIRMEN WAY/150 ST
+40.694352,-73.803516,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.694352,-73.803516",WALTHAM ST /106 AV
+40.69541,-73.80507,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.69541,-73.80507",WALTHAM ST /LIBERTY AV
+40.688781,-73.817967,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.688781,-73.817967",LIBERTY AV /127 ST
+40.688285,-73.819199,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.688285,-73.819199",LIBERTY AV /125 ST
+40.687825,-73.820446,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.687825,-73.820446",LIBERTY AV /124 ST
+40.685985,-73.826181,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.685985,-73.826181",LIBERTY AV /117 ST
+40.685798,-73.827987,400.0,6,5,1,"https://www.google.com/maps/search/?api=1&query=40.685798,-73.827987",LIBERTY AV /115 ST
+40.684122,-73.833021,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.684122,-73.833021",LIBERTY AV /109 ST
+40.683402,-73.834611,400.0,3,2,1,"https://www.google.com/maps/search/?api=1&query=40.683402,-73.834611",LIBERTY AV /107 ST
+40.682396,-73.836389,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.682396,-73.836389",LIBERTY AV /105 ST
+40.681688,-73.838041,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.681688,-73.838041",LIBERTY AV /103 ST
+40.681393,-73.839365,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.681393,-73.839365",LIBERTY AV /101 ST
+40.703657,-73.799181,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.703657,-73.799181",JAMAICA AV /160 ST
+40.68626,-73.823975,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.68626,-73.823975",LIBERTY AV /LEFFERTS BL
+40.680417,-73.842272,400.0,10,9,1,"https://www.google.com/maps/search/?api=1&query=40.680417,-73.842272",ROCKAWAY BL /LIBERTY AV

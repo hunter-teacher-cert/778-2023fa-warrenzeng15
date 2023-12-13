@@ -1,0 +1,71 @@
+latitude,longitude,radius_searched,number_of_stops,number_of_bus_stops,number_of_metro_stops,google_maps_link,stop_name
+40.712629,-73.733783,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.712629,-73.733783",HEMPSTEAD AV /220 ST
+40.711912,-73.730982,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.711912,-73.730982",HEMPSTEAD AV /223 ST
+40.711421,-73.729162,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.711421,-73.729162",HEMPSTEAD AV /225 ST
+40.711706,-73.729036,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.711706,-73.729036",HEMPSTEAD AV /225 ST
+40.712088,-73.730452,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.712088,-73.730452",HEMPSTEAD AV /224 ST
+40.712758,-73.733206,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.712758,-73.733206",HEMPSTEAD AV /221 ST
+40.716152,-73.745515,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.716152,-73.745515",JAMAICA AV /212 PL
+40.705465,-73.803513,400.0,21,19,2,"https://www.google.com/maps/search/?api=1&query=40.705465,-73.803513",153 ST /89 AV
+40.706587,-73.792264,400.0,34,34,0,"https://www.google.com/maps/search/?api=1&query=40.706587,-73.792264",JAMAICA AV /169 ST
+40.706358,-73.79217,400.0,34,34,0,"https://www.google.com/maps/search/?api=1&query=40.706358,-73.79217",JAMAICA AV /168 ST
+40.705485,-73.794605,400.0,37,37,0,"https://www.google.com/maps/search/?api=1&query=40.705485,-73.794605",JAMAICA AV /165 ST
+40.702998,-73.802273,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.702998,-73.802273",153 ST /JAMAICA AV
+40.703368,-73.80055,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.703368,-73.80055",JAMAICA AV /PARSONS BL
+40.704409,-73.79715,400.0,40,40,0,"https://www.google.com/maps/search/?api=1&query=40.704409,-73.79715",JAMAICA AV /GUY R BREWER BL
+40.704195,-73.798487,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.704195,-73.798487",JAMAICA AV /162 ST
+40.713108,-73.735666,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.713108,-73.735666",HEMPSTEAD AV /SPRINGFIELD BL
+40.706713,-73.802335,400.0,12,10,2,"https://www.google.com/maps/search/?api=1&query=40.706713,-73.802335",88 AV /PARSONS BL
+40.705486,-73.795158,400.0,37,37,0,"https://www.google.com/maps/search/?api=1&query=40.705486,-73.795158",JAMAICA AV /165 ST
+40.707647,-73.787396,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.707647,-73.787396",JAMAICA AV /172 ST
+40.707821,-73.783573,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.707821,-73.783573",JAMAICA AV /177 ST
+40.708129,-73.781472,400.0,8,4,0,"https://www.google.com/maps/search/?api=1&query=40.708129,-73.781472",JAMAICA AV /179 PL
+40.708534,-73.779417,400.0,6,2,0,"https://www.google.com/maps/search/?api=1&query=40.708534,-73.779417",JAMAICA AV /181 ST
+40.708715,-73.779985,400.0,6,2,0,"https://www.google.com/maps/search/?api=1&query=40.708715,-73.779985",JAMAICA AV /181 ST
+40.708865,-73.776762,400.0,6,2,0,"https://www.google.com/maps/search/?api=1&query=40.708865,-73.776762",JAMAICA AV /183 ST
+40.709059,-73.777725,400.0,6,2,0,"https://www.google.com/maps/search/?api=1&query=40.709059,-73.777725",JAMAICA AV /183 ST
+40.709402,-73.774549,400.0,7,3,0,"https://www.google.com/maps/search/?api=1&query=40.709402,-73.774549",JAMAICA AV /184 PL
+40.709475,-73.775244,400.0,7,3,0,"https://www.google.com/maps/search/?api=1&query=40.709475,-73.775244",JAMAICA AV /184 PL
+40.709772,-73.773221,400.0,7,3,0,"https://www.google.com/maps/search/?api=1&query=40.709772,-73.773221",JAMAICA AV /186 ST
+40.709989,-73.773473,400.0,7,3,0,"https://www.google.com/maps/search/?api=1&query=40.709989,-73.773473",JAMAICA AV /186 ST
+40.71252,-73.783321,400.0,19,17,2,"https://www.google.com/maps/search/?api=1&query=40.71252,-73.783321",179 PL /HILLSIDE AV
+40.712476,-73.783305,400.0,19,17,2,"https://www.google.com/maps/search/?api=1&query=40.712476,-73.783305",179 PL /HILLSIDE AV
+40.710884,-73.770311,400.0,6,3,0,"https://www.google.com/maps/search/?api=1&query=40.710884,-73.770311",JAMAICA AV /188 ST
+40.710825,-73.770959,400.0,6,3,0,"https://www.google.com/maps/search/?api=1&query=40.710825,-73.770959",JAMAICA AV /188 ST
+40.711843,-73.769344,400.0,6,3,0,"https://www.google.com/maps/search/?api=1&query=40.711843,-73.769344",JAMAICA AV /190 ST
+40.713644,-73.758531,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.713644,-73.758531",JAMAICA AV /201 ST
+40.713065,-73.767034,400.0,6,3,0,"https://www.google.com/maps/search/?api=1&query=40.713065,-73.767034",JAMAICA AV /193 ST
+40.71327,-73.767349,400.0,6,3,0,"https://www.google.com/maps/search/?api=1&query=40.71327,-73.767349",JAMAICA AV /193 ST
+40.713192,-73.764522,400.0,4,1,0,"https://www.google.com/maps/search/?api=1&query=40.713192,-73.764522",JAMAICA AV /195 PL
+40.713446,-73.765216,400.0,4,1,0,"https://www.google.com/maps/search/?api=1&query=40.713446,-73.765216",JAMAICA AV /195 PL
+40.713284,-73.762689,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.713284,-73.762689",JAMAICA AV /WOODHULL AV
+40.71338,-73.75685,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.71338,-73.75685",JAMAICA AV /202 ST
+40.713389,-73.755869,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.713389,-73.755869",JAMAICA AV /204 ST
+40.713663,-73.756444,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.713663,-73.756444",JAMAICA AV /204 ST
+40.713847,-73.753655,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.713847,-73.753655",JAMAICA AV /FRANCIS LEWIS BL
+40.71392,-73.75448,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.71392,-73.75448",JAMAICA AV /FRANCIS LEWIS BL
+40.714317,-73.75194,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.714317,-73.75194",JAMAICA AV /208 ST
+40.714437,-73.752625,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.714437,-73.752625",JAMAICA AV /208 ST
+40.714706,-73.750505,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.714706,-73.750505",JAMAICA AV /210 ST
+40.714979,-73.750753,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.714979,-73.750753",JAMAICA AV /210 ST
+40.715199,-73.748618,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.715199,-73.748618",JAMAICA AV /HOLLIS CT BL
+40.715437,-73.748773,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.715437,-73.748773",JAMAICA AV /HOLLIS CT BL
+40.715704,-73.74628,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.715704,-73.74628",JAMAICA AV /212 ST
+40.714721,-73.741174,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.714721,-73.741174",HEMPSTEAD AV /99 AV
+40.714036,-73.738748,400.0,9,9,0,"https://www.google.com/maps/search/?api=1&query=40.714036,-73.738748",HEMPSTEAD AV /217 LA
+40.714336,-73.738761,400.0,12,9,0,"https://www.google.com/maps/search/?api=1&query=40.714336,-73.738761",HEMPSTEAD AV /217 LA
+40.713762,-73.736785,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.713762,-73.736785",HEMPSTEAD AV /SPRINGFIELD BL
+40.712492,-73.769042,400.0,6,3,0,"https://www.google.com/maps/search/?api=1&query=40.712492,-73.769042",JAMAICA AV /191 ST
+40.708184,-73.782611,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.708184,-73.782611",JAMAICA AV /179 ST
+40.708087,-73.784725,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.708087,-73.784725",JAMAICA AV /176 ST
+40.708007,-73.787,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.708007,-73.787",JAMAICA AV /173 ST
+40.70765,-73.788549,400.0,10,10,0,"https://www.google.com/maps/search/?api=1&query=40.70765,-73.788549",JAMAICA AV /171 ST
+40.707825,-73.785516,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.707825,-73.785516",JAMAICA AV /175 ST
+40.703657,-73.799181,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.703657,-73.799181",JAMAICA AV /160 ST
+40.713617,-73.76084,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.713617,-73.76084",JAMAICA AV /93 AV
+40.713528,-73.763072,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.713528,-73.763072",JAMAICA AV/197 ST
+40.713346,-73.760546,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.713346,-73.760546",JAMAICA AV /93 AV
+40.713076,-73.727739,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.713076,-73.727739",BELMONT PARK RACETRACK/UBS ARENA
+40.713329,-73.72826,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.713329,-73.72826",BELMONT PARK RACETRACK/UBS ARENA
+40.707198,-73.78931,400.0,18,18,0,"https://www.google.com/maps/search/?api=1&query=40.707198,-73.78931",JAMAICA AV/170 ST
+40.706689,-73.802386,400.0,12,10,2,"https://www.google.com/maps/search/?api=1&query=40.706689,-73.802386",88 AV /PARSONS BL

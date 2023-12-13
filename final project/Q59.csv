@@ -1,0 +1,94 @@
+latitude,longitude,radius_searched,number_of_stops,number_of_bus_stops,number_of_metro_stops,google_maps_link,stop_name
+40.712412,-73.938816,400.0,3,2,1,"https://www.google.com/maps/search/?api=1&query=40.712412,-73.938816",Grand St
+40.711905,-73.941236,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.711905,-73.941236",GRAHAM AV/GRAND ST
+40.714091,-73.952005,400.0,6,4,2,"https://www.google.com/maps/search/?api=1&query=40.714091,-73.952005",Metropolitan Av
+40.709362,-73.960501,400.0,13,10,3,"https://www.google.com/maps/search/?api=1&query=40.709362,-73.960501",Marcy Av
+40.714667,-73.961579,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.714667,-73.961579",BEDFORD AV/GRAND ST
+40.710842,-73.968417,400.0,3,2,0,"https://www.google.com/maps/search/?api=1&query=40.710842,-73.968417",South Williamsburg
+40.710487,-73.966188,400.0,4,3,0,"https://www.google.com/maps/search/?api=1&query=40.710487,-73.966188",South Williamsburg
+40.711655,-73.943117,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.711655,-73.943117",GRAHAM AV/GRAND ST
+40.712415,-73.938437,400.0,3,2,1,"https://www.google.com/maps/search/?api=1&query=40.712415,-73.938437",Grand St
+40.713293,-73.934906,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.713293,-73.934906",GRAND ST/MORGAN AV
+40.71343,-73.934716,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.71343,-73.934716",GRAND ST/MORGAN AV
+40.711605,-73.944534,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.711605,-73.944534",GRAHAM AV/GRAND ST
+40.711154,-73.949291,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.711154,-73.949291",MESEROLE ST/LORIMER ST
+40.71436,-73.961133,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.71436,-73.961133",BEDFORD AV/GRAND ST
+40.714024,-73.932089,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.714024,-73.932089",GRAND ST/METRO BRIDGE
+40.715457,-73.926882,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.715457,-73.926882",METROPOLITAN AV/GARDNER AV
+40.713456,-73.958674,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.713456,-73.958674",DRIGGS AV/GRAND ST
+40.710389,-73.964353,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.710389,-73.964353",BEDFORD AV/BROADWAY
+40.715315,-73.926805,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.715315,-73.926805",METROPOLITAN AV/GARDNER AV
+40.710192,-73.963556,400.0,10,10,0,"https://www.google.com/maps/search/?api=1&query=40.710192,-73.963556",BEDFORD AV/BROADWAY
+40.714171,-73.931836,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.714171,-73.931836",GRAND ST/METRO BRIDGE
+40.711148,-73.948499,400.0,8,6,2,"https://www.google.com/maps/search/?api=1&query=40.711148,-73.948499",GRAHAM AV/GRAND ST
+40.716201,-73.923685,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.716201,-73.923685",METROPOLITAN AV/ONDERDONK AV
+40.716046,-73.92461,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.716046,-73.92461",METROPOLITAN AV/ONDERDONK AV
+40.711017,-73.950982,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.711017,-73.950982",S 4 ST/HEWES ST
+40.71094,-73.950691,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.71094,-73.950691",S 4 ST/HEWES ST
+40.71216,-73.967883,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.71216,-73.967883",BEDFORD AV/BROADWAY
+40.714192,-73.966936,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.714192,-73.966936",KENT AV/S 3 ST
+40.715795,-73.966214,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.715795,-73.966214",KENT AV/S 1 ST
+40.715736,-73.964691,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.715736,-73.964691",BEDFORD AV/GRAND ST
+40.713355,-73.958225,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.713355,-73.958225",DRIGGS AV/GRAND ST
+40.714125,-73.954958,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.714125,-73.954958",DRIGGS AV/N 6 ST
+40.713629,-73.965508,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.713629,-73.965508",BEDFORD AV/S 4 ST
+40.712032,-73.9662,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.712032,-73.9662",BEDFORD AV/BROADWAY
+40.712062,-73.940017,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.712062,-73.940017",GRAHAM AV/GRAND ST
+40.710673,-73.96693,400.0,4,3,0,"https://www.google.com/maps/search/?api=1&query=40.710673,-73.96693",South Williamsburg
+40.714025,-73.955914,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.714025,-73.955914",DRIGGS AV/N 4 ST
+40.714006,-73.9528,400.0,6,4,2,"https://www.google.com/maps/search/?api=1&query=40.714006,-73.9528",Metropolitan Av
+40.736494,-73.877838,400.0,7,4,3,"https://www.google.com/maps/search/?api=1&query=40.736494,-73.877838",GRAND AV/QUEENS BL
+40.716608,-73.922463,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.716608,-73.922463",METROPOLITAN AV/ONDERDONK AV
+40.729453,-73.889932,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.729453,-73.889932",79 ST/GRAND AV
+40.724268,-73.898362,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.724268,-73.898362",GRAND AV/64 ST
+40.725094,-73.896739,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.725094,-73.896739",QUEENS MIDTOWN EXP/GRAND AV
+40.726466,-73.894339,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.726466,-73.894339",QUEENS MIDTOWN EXP/GRAND AV
+40.72776,-73.892151,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.72776,-73.892151",69 ST/55 AV
+40.730283,-73.887154,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.730283,-73.887154",79 ST/GRAND AV
+40.731137,-73.885277,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.731137,-73.885277",79 ST/GRAND AV
+40.733451,-73.883824,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.733451,-73.883824",80 ST/GRAND AV
+40.735058,-73.881807,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.735058,-73.881807",GRAND AV/HASPEL ST
+40.735806,-73.880197,400.0,7,4,3,"https://www.google.com/maps/search/?api=1&query=40.735806,-73.880197",GRAND AV/VAN HORN ST
+40.736357,-73.878318,400.0,7,4,3,"https://www.google.com/maps/search/?api=1&query=40.736357,-73.878318",GRAND AV/QUEENS BL
+40.735702,-73.880889,400.0,7,4,3,"https://www.google.com/maps/search/?api=1&query=40.735702,-73.880889",GRAND AV/GOLDSMITH ST
+40.734958,-73.882084,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.734958,-73.882084",GRAND AV/HASPEL ST
+40.733361,-73.884007,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.733361,-73.884007",80 ST/GRAND AV
+40.732141,-73.88473,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.732141,-73.88473",80 ST/GRAND AV
+40.730814,-73.885954,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.730814,-73.885954",79 ST/GRAND AV
+40.7301,-73.888385,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.7301,-73.888385",79 ST/GRAND AV
+40.729251,-73.890277,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.729251,-73.890277",GRAND AV/73 ST
+40.728025,-73.891827,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.728025,-73.891827",69 ST/55 AV
+40.72635,-73.894688,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.72635,-73.894688",QUEENS MIDTOWN EXP/GRAND AV
+40.725716,-73.89579,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.725716,-73.89579",QUEENS MIDTOWN EXP/GRAND AV
+40.724911,-73.897316,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.724911,-73.897316",QUEENS MIDTOWN EXP/GRAND AV
+40.723649,-73.8998,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.723649,-73.8998",GRAND AV/64 ST
+40.735004,-73.874304,400.0,18,15,3,"https://www.google.com/maps/search/?api=1&query=40.735004,-73.874304",QUEENS BL /59 AV
+40.734905,-73.87228,400.0,17,14,3,"https://www.google.com/maps/search/?api=1&query=40.734905,-73.87228",QUEENS BL /59 AV
+40.716777,-73.921382,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.716777,-73.921382",METROPOLITAN AV/WOODWARD AV
+40.718453,-73.915286,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.718453,-73.915286",RUST ST/58 RD
+40.721288,-73.905862,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.721288,-73.905862",GRAND AV/58 AV
+40.720604,-73.907719,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.720604,-73.907719",GRAND AV/59 ST
+40.720409,-73.908613,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.720409,-73.908613",GRAND AV/59 ST
+40.721939,-73.904314,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.721939,-73.904314",61 ST/GRAND AV
+40.722723,-73.901821,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.722723,-73.901821",61 ST/GRAND AV
+40.722661,-73.902289,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.722661,-73.902289",61 ST/GRAND AV
+40.717678,-73.918144,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.717678,-73.918144",GRAND AV/PAGE PL
+40.717672,-73.918518,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.717672,-73.918518",GRAND AV/PAGE PL
+40.719663,-73.910887,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.719663,-73.910887",GRAND AV/RUST ST
+40.719698,-73.911226,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.719698,-73.911226",GRAND AV/RUST ST
+40.721059,-73.906724,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.721059,-73.906724",GRAND AV/58 AV
+40.735251,-73.875959,400.0,8,5,3,"https://www.google.com/maps/search/?api=1&query=40.735251,-73.875959",90 ST/55 AV
+40.734442,-73.874463,400.0,17,14,3,"https://www.google.com/maps/search/?api=1&query=40.734442,-73.874463",QUEENS BL /59 AV
+40.733302,-73.870855,400.0,20,17,3,"https://www.google.com/maps/search/?api=1&query=40.733302,-73.870855",HOFFMAN DR /WOODHAVEN BL
+40.731182,-73.864617,400.0,15,12,3,"https://www.google.com/maps/search/?api=1&query=40.731182,-73.864617",63 Dr-Rego Park
+40.733941,-73.870836,400.0,20,17,3,"https://www.google.com/maps/search/?api=1&query=40.733941,-73.870836",QUEENS BL /59 AV
+40.724156,-73.898774,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.724156,-73.898774",GRAND AV/64 ST
+40.719088,-73.912988,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.719088,-73.912988",RUST ST/58 RD
+40.72173,-73.904598,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.72173,-73.904598",61 ST/GRAND AV
+40.718616,-73.915118,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.718616,-73.915118",RUST ST/58 RD
+40.714979,-73.964866,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.714979,-73.964866",BEDFORD AV/S 2 ST
+40.709168,-73.959974,400.0,13,10,3,"https://www.google.com/maps/search/?api=1&query=40.709168,-73.959974",Marcy Av
+40.709177,-73.959371,400.0,13,10,3,"https://www.google.com/maps/search/?api=1&query=40.709177,-73.959371",Marcy Av
+40.732855,-73.866873,400.0,21,18,3,"https://www.google.com/maps/search/?api=1&query=40.732855,-73.866873",HOFFMAN DR /WOODHAVEN BL
+40.732959,-73.864021,400.0,14,14,0,"https://www.google.com/maps/search/?api=1&query=40.732959,-73.864021",JUNCTION BL/HOR HARDING SR RD S
+40.71942,-73.912184,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.71942,-73.912184",RUST ST/58 RD

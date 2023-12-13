@@ -1,0 +1,42 @@
+latitude,longitude,radius_searched,number_of_stops,number_of_bus_stops,number_of_metro_stops,google_maps_link,stop_name
+40.748603,-73.984667,400.0,74,61,12,"https://www.google.com/maps/search/?api=1&query=40.748603,-73.984667",W 34 ST/5 AV
+40.755988,-73.983132,400.0,74,59,15,"https://www.google.com/maps/search/?api=1&query=40.755988,-73.983132",6 AV/W 44 ST
+40.760335,-73.979922,400.0,71,59,12,"https://www.google.com/maps/search/?api=1&query=40.760335,-73.979922",6 AV/W 51 ST
+40.760391,-73.968015,400.0,61,50,10,"https://www.google.com/maps/search/?api=1&query=40.760391,-73.968015",E 57 ST/ 3 AV
+40.762384,-73.972752,400.0,72,66,6,"https://www.google.com/maps/search/?api=1&query=40.762384,-73.972752",E 57 ST/MADISON AV
+40.764119,-73.97718,400.0,62,57,5,"https://www.google.com/maps/search/?api=1&query=40.764119,-73.97718",6 AV/W 57 ST
+40.752159,-73.985874,400.0,81,66,14,"https://www.google.com/maps/search/?api=1&query=40.752159,-73.985874",6 AV/W 38 ST
+40.747646,-73.98234,400.0,66,63,3,"https://www.google.com/maps/search/?api=1&query=40.747646,-73.98234",E 34 ST/PARK AV
+40.652627,-73.838457,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.652627,-73.838457",CROSS BAY BL/163 AV
+40.659283,-73.840092,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.659283,-73.840092",CROSS BAY BL/159 AV
+40.607873,-73.819479,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.607873,-73.819479",CROSS BAY BL/NOEL RD
+40.586479,-73.815197,400.0,9,7,2,"https://www.google.com/maps/search/?api=1&query=40.586479,-73.815197",ROCKAWAY BEACH BL/BEACH 92 ST
+40.588118,-73.805263,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.588118,-73.805263",ROCKAWAY BEACH BL/BEACH 79 ST
+40.588383,-73.804486,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.588383,-73.804486",ROCKAWAY BEACH BL/BEACH 77 ST
+40.59276,-73.795861,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.59276,-73.795861",BEACH CHANNEL DR/BEACH 67 ST
+40.592953,-73.796423,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.592953,-73.796423",BEACH CHANNEL DR/BEACH 67 ST
+40.594972,-73.78476,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.594972,-73.78476",BEACH CHANNEL DR/BEACH 54 ST
+40.595194,-73.784759,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.595194,-73.784759",BEACH CHANNEL DR/BEACH 54 ST
+40.595605,-73.775486,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.595605,-73.775486",BEACH CHANNEL DR/BEACH 44 ST
+40.595971,-73.766329,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.595971,-73.766329",SEAGIRT BL/BEACH 34 ST
+40.595929,-73.760568,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.595929,-73.760568",SEAGIRT BL/BEACH 27 ST
+40.596329,-73.760606,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.596329,-73.760606",SEAGIRT BL/BEACH 27 ST
+40.595047,-73.755819,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.595047,-73.755819",SEAGIRT BL /CREST RD
+40.595403,-73.756206,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.595403,-73.756206",SEAGIRT BL/CREST RD
+40.595455,-73.753044,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.595455,-73.753044",BEACH 19 ST/SEAGIRT BL
+40.599682,-73.752233,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.599682,-73.752233",BEACH 19 ST/GATEWAY BL
+40.604398,-73.753476,400.0,8,7,1,"https://www.google.com/maps/search/?api=1&query=40.604398,-73.753476",BEACH 21 ST/MOTT AV
+40.602524,-73.753445,400.0,8,7,1,"https://www.google.com/maps/search/?api=1&query=40.602524,-73.753445",BEACH 20 ST/CORNAGA AV
+40.599332,-73.754271,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.599332,-73.754271",BEACH 20 ST/BROOKHAVEN AV
+40.595428,-73.754169,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.595428,-73.754169",BEACH 20 ST/SEAGIRT BL
+40.596324,-73.769179,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.596324,-73.769179",BEACH CHANNEL DR/BEACH 36 ST
+40.602353,-73.753546,400.0,8,7,1,"https://www.google.com/maps/search/?api=1&query=40.602353,-73.753546",CORNAGA AV/BEACH 20 ST
+40.601521,-73.820088,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.601521,-73.820088",CROSS BAY BL/E 16 RD
+40.595768,-73.775893,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.595768,-73.775893",BEACH CHANNEL DR/BEACH 44 ST
+40.660765,-73.840067,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.660765,-73.840067",CROSS BAY BL/158 AV
+40.60796,-73.819122,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.60796,-73.819122",CROSS BAY BL/NOEL RD
+40.746194,-73.978967,400.0,58,55,3,"https://www.google.com/maps/search/?api=1&query=40.746194,-73.978967",E 34 ST/3 AV
+40.600206,-73.82068,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.600206,-73.82068",CROSS BAY BL/W 18 RD
+40.652413,-73.838019,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.652413,-73.838019",CROSS BAY BL/163 AV
+40.586583,-73.815367,400.0,9,7,2,"https://www.google.com/maps/search/?api=1&query=40.586583,-73.815367",ROCKAWAY BEACH BL/BEACH 92 ST
+40.603301,-73.753827,400.0,8,7,1,"https://www.google.com/maps/search/?api=1&query=40.603301,-73.753827",BEACH 21 ST TERMINAL/BEACH 21 ST

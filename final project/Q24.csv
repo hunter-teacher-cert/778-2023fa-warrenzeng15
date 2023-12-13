@@ -1,0 +1,132 @@
+latitude,longitude,radius_searched,number_of_stops,number_of_bus_stops,number_of_metro_stops,google_maps_link,stop_name
+40.685949,-73.915792,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.685949,-73.915792",BROADWAY/HALSEY ST
+40.677717,-73.898425,400.0,10,6,4,"https://www.google.com/maps/search/?api=1&query=40.677717,-73.898425",JAMAICA AV/FANCHON PL
+40.677004,-73.900089,400.0,16,6,3,"https://www.google.com/maps/search/?api=1&query=40.677004,-73.900089",JAMAICA AV/BROADWAY
+40.679287,-73.904103,400.0,10,5,5,"https://www.google.com/maps/search/?api=1&query=40.679287,-73.904103",BROADWAY/CONWAY ST
+40.680135,-73.90557,400.0,10,5,5,"https://www.google.com/maps/search/?api=1&query=40.680135,-73.90557",BROADWAY/EASTERN PY
+40.681143,-73.907315,400.0,9,4,5,"https://www.google.com/maps/search/?api=1&query=40.681143,-73.907315",BROADWAY/ABERDEEN ST
+40.682028,-73.908833,400.0,6,3,3,"https://www.google.com/maps/search/?api=1&query=40.682028,-73.908833",BROADWAY/GRANITE ST
+40.68289,-73.910345,400.0,6,4,2,"https://www.google.com/maps/search/?api=1&query=40.68289,-73.910345",BROADWAY/CHAUNCEY ST
+40.683723,-73.911815,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.683723,-73.911815",BROADWAY/COOPER ST
+40.683212,-73.91117,400.0,6,4,2,"https://www.google.com/maps/search/?api=1&query=40.683212,-73.91117",BROADWAY/ROCKAWAY AV
+40.682435,-73.909794,400.0,7,4,3,"https://www.google.com/maps/search/?api=1&query=40.682435,-73.909794",BROADWAY/CHAUNCEY ST
+40.680211,-73.905914,400.0,10,5,5,"https://www.google.com/maps/search/?api=1&query=40.680211,-73.905914",BROADWAY/HULL ST
+40.692479,-73.927904,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.692479,-73.927904",PATCHEN AV/LAFAYETTE AV
+40.691176,-73.925105,400.0,6,4,2,"https://www.google.com/maps/search/?api=1&query=40.691176,-73.925105",BROADWAY/GREENE AV
+40.68432,-73.91312,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.68432,-73.91312",BROADWAY/MAC DONOUGH ST
+40.675687,-73.895992,400.0,10,6,4,"https://www.google.com/maps/search/?api=1&query=40.675687,-73.895992",ATLANTIC AV/NEW JERSEY AV
+40.675826,-73.894488,400.0,8,4,4,"https://www.google.com/maps/search/?api=1&query=40.675826,-73.894488",ATLANTIC AV/VERMONT ST
+40.676068,-73.892649,400.0,7,3,4,"https://www.google.com/maps/search/?api=1&query=40.676068,-73.892649",ATLANTIC AV/BRADFORD ST
+40.676341,-73.890983,400.0,3,1,2,"https://www.google.com/maps/search/?api=1&query=40.676341,-73.890983",ATLANTIC AV/VAN SICLEN AV
+40.676724,-73.889043,400.0,3,1,2,"https://www.google.com/maps/search/?api=1&query=40.676724,-73.889043",ATLANTIC AV/SCHENCK AV
+40.677199,-73.886941,400.0,2,1,1,"https://www.google.com/maps/search/?api=1&query=40.677199,-73.886941",ATLANTIC AV/WARWICK ST
+40.677921,-73.884203,400.0,2,1,1,"https://www.google.com/maps/search/?api=1&query=40.677921,-73.884203",ATLANTIC AV/ELTON ST
+40.678466,-73.882396,400.0,3,1,2,"https://www.google.com/maps/search/?api=1&query=40.678466,-73.882396",ATLANTIC AV/ESSEX ST
+40.678972,-73.880607,400.0,3,1,2,"https://www.google.com/maps/search/?api=1&query=40.678972,-73.880607",ATLANTIC AV/BERRIMAN ST
+40.681649,-73.871202,400.0,4,2,2,"https://www.google.com/maps/search/?api=1&query=40.681649,-73.871202",ATLANTIC AV/CRESCENT ST
+40.682165,-73.869391,400.0,4,2,2,"https://www.google.com/maps/search/?api=1&query=40.682165,-73.869391",ATLANTIC AV/AUTUMN AV
+40.682663,-73.867653,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.682663,-73.867653",ATLANTIC AV/SHERIDAN AV
+40.682962,-73.867576,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.682962,-73.867576",ATLANTIC AV/GRANT AV
+40.688459,-73.920063,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.688459,-73.920063",BROADWAY/MADISON ST
+40.681721,-73.871923,400.0,4,2,2,"https://www.google.com/maps/search/?api=1&query=40.681721,-73.871923",ATLANTIC AV/CRESCENT ST
+40.680004,-73.877966,400.0,3,1,2,"https://www.google.com/maps/search/?api=1&query=40.680004,-73.877966",ATLANTIC AV/LOGAN ST
+40.679396,-73.880072,400.0,3,1,2,"https://www.google.com/maps/search/?api=1&query=40.679396,-73.880072",ATLANTIC AV/HALE AV
+40.678877,-73.881905,400.0,3,1,2,"https://www.google.com/maps/search/?api=1&query=40.678877,-73.881905",ATLANTIC AV/SHEPHERD AV
+40.678365,-73.88369,400.0,2,1,1,"https://www.google.com/maps/search/?api=1&query=40.678365,-73.88369",ATLANTIC AV/LINWOOD ST
+40.677991,-73.885018,400.0,2,1,1,"https://www.google.com/maps/search/?api=1&query=40.677991,-73.885018",ATLANTIC AV/CLEVELAND ST
+40.677397,-73.887257,400.0,3,1,2,"https://www.google.com/maps/search/?api=1&query=40.677397,-73.887257",ATLANTIC AV/WARWICK ST
+40.677001,-73.889007,400.0,3,1,2,"https://www.google.com/maps/search/?api=1&query=40.677001,-73.889007",ATLANTIC AV/BARBEY ST
+40.676651,-73.890777,400.0,3,1,2,"https://www.google.com/maps/search/?api=1&query=40.676651,-73.890777",ATLANTIC AV/HENDRIX ST
+40.676321,-73.89258,400.0,8,4,4,"https://www.google.com/maps/search/?api=1&query=40.676321,-73.89258",ATLANTIC AV/MILLER AV
+40.676166,-73.89369,400.0,8,4,4,"https://www.google.com/maps/search/?api=1&query=40.676166,-73.89369",ATLANTIC AV/WYONA ST
+40.675852,-73.896631,400.0,10,6,4,"https://www.google.com/maps/search/?api=1&query=40.675852,-73.896631",ATLANTIC AV/PENNSYLVANIA AV
+40.684603,-73.913292,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.684603,-73.913292",BROADWAY/SCHAEFFER ST
+40.685499,-73.91487,400.0,6,5,1,"https://www.google.com/maps/search/?api=1&query=40.685499,-73.91487",BROADWAY/ELDERT ST
+40.687195,-73.917883,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.687195,-73.917883",BROADWAY/JEFFERSON AV
+40.689726,-73.922336,400.0,5,3,2,"https://www.google.com/maps/search/?api=1&query=40.689726,-73.922336",BROADWAY/GATES AV
+40.690619,-73.923871,400.0,5,3,2,"https://www.google.com/maps/search/?api=1&query=40.690619,-73.923871",BROADWAY/GROVE ST
+40.677162,-73.899167,400.0,18,6,5,"https://www.google.com/maps/search/?api=1&query=40.677162,-73.899167",JAMAICA AV/GEORGIA AV
+40.680906,-73.87478,400.0,4,2,2,"https://www.google.com/maps/search/?api=1&query=40.680906,-73.87478",ATLANTIC AV/CHESTNUT ST
+40.686818,-73.917504,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.686818,-73.917504",BROADWAY/JEFFERSON AV
+40.689893,-73.922909,400.0,5,3,2,"https://www.google.com/maps/search/?api=1&query=40.689893,-73.922909",BROADWAY/QUINCY ST
+40.687986,-73.919576,400.0,7,5,2,"https://www.google.com/maps/search/?api=1&query=40.687986,-73.919576",BROADWAY/MADISON ST
+40.678919,-73.903623,400.0,18,6,5,"https://www.google.com/maps/search/?api=1&query=40.678919,-73.903623",BROADWAY/VAN SIDEREN AV
+40.691709,-73.925835,400.0,6,4,2,"https://www.google.com/maps/search/?api=1&query=40.691709,-73.925835",BROADWAY/GREENE AV
+40.67959,-73.878442,400.0,3,1,2,"https://www.google.com/maps/search/?api=1&query=40.67959,-73.878442",ATLANTIC AV/MILFORD ST
+40.681648,-73.908411,400.0,7,4,3,"https://www.google.com/maps/search/?api=1&query=40.681648,-73.908411",BROADWAY/GRANITE ST
+40.692336,-73.927167,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.692336,-73.927167",BROADWAY/LAFAYETTE AV
+40.677953,-73.903754,400.0,18,6,5,"https://www.google.com/maps/search/?api=1&query=40.677953,-73.903754",FULTON ST/VAN SINDEREN AV
+40.681085,-73.873176,400.0,4,2,2,"https://www.google.com/maps/search/?api=1&query=40.681085,-73.873176",ATLANTIC AV/EUCLID AV
+40.678391,-73.903549,400.0,18,6,5,"https://www.google.com/maps/search/?api=1&query=40.678391,-73.903549",VAN SINDEREN AV/FULTON ST
+40.702228,-73.804326,400.0,33,30,3,"https://www.google.com/maps/search/?api=1&query=40.702228,-73.804326",JAMAICA AV/150 ST
+40.68932,-73.844234,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.68932,-73.844234",ATLANTIC AV/100 ST
+40.689482,-73.844626,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.689482,-73.844626",ATLANTIC AV/100 ST
+40.689877,-73.842274,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.689877,-73.842274",ATLANTIC AV/102 ST
+40.68984,-73.843378,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.68984,-73.843378",ATLANTIC AV/102 ST
+40.690188,-73.841156,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.690188,-73.841156",ATLANTIC AV/104 ST
+40.690324,-73.841675,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.690324,-73.841675",ATLANTIC AV/104 ST
+40.690798,-73.839073,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.690798,-73.839073",ATLANTIC AV/106 ST
+40.691363,-73.837053,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.691363,-73.837053",ATLANTIC AV/108 ST
+40.691372,-73.837994,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.691372,-73.837994",ATLANTIC AV/108 ST
+40.692152,-73.834253,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.692152,-73.834253",ATLANTIC AV/111 ST
+40.692118,-73.83536,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.692118,-73.83536",ATLANTIC AV/111 ST
+40.692876,-73.83172,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.692876,-73.83172",ATLANTIC AV/114 ST
+40.692915,-73.83256,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.692915,-73.83256",ATLANTIC AV/114 ST
+40.693564,-73.829287,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.693564,-73.829287",ATLANTIC AV/117 ST
+40.69362,-73.830084,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.69362,-73.830084",ATLANTIC AV/117 ST
+40.694393,-73.825869,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.694393,-73.825869",ATLANTIC AV/121 ST
+40.694666,-73.826396,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.694666,-73.826396",ATLANTIC AV/121 ST
+40.695058,-73.824199,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.695058,-73.824199",ATLANTIC AV/124 ST
+40.695673,-73.821193,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.695673,-73.821193",ATLANTIC AV/127 ST
+40.695982,-73.818117,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.695982,-73.818117",ATLANTIC AV/130 ST
+40.695885,-73.81935,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.695885,-73.81935",ATLANTIC AV/130 ST
+40.69676,-73.815411,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.69676,-73.815411",ATLANTIC AV/134 ST
+40.683448,-73.865855,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.683448,-73.865855",ATLANTIC AV/74 PL
+40.683723,-73.863908,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.683723,-73.863908",ATLANTIC AV/75 ST
+40.683902,-73.864261,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.683902,-73.864261",ATLANTIC AV/76 ST
+40.684224,-73.862158,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.684224,-73.862158",ATLANTIC AV/77 ST
+40.684413,-73.862471,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.684413,-73.862471",ATLANTIC AV/78 ST
+40.685006,-73.860375,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.685006,-73.860375",ATLANTIC AV/80 ST
+40.684584,-73.860877,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.684584,-73.860877",ATLANTIC AV/80 ST
+40.68521,-73.858673,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.68521,-73.858673",ATLANTIC AV/82 PL
+40.695757,-73.821723,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.695757,-73.821723",ATLANTIC AV/127 ST
+40.703254,-73.800661,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.703254,-73.800661",JAMAICA AV/PARSONS BL
+40.703362,-73.795607,400.0,30,30,0,"https://www.google.com/maps/search/?api=1&query=40.703362,-73.795607",ARCHER AV/GUY R BREWER BL
+40.704244,-73.798183,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.704244,-73.798183",JAMAICA AV/162 ST
+40.701836,-73.808487,400.0,33,19,3,"https://www.google.com/maps/search/?api=1&query=40.701836,-73.808487",JAMAICA AV/SUTPHIN BL
+40.701235,-73.80484,400.0,44,30,3,"https://www.google.com/maps/search/?api=1&query=40.701235,-73.80484",ARCHER AV/149 ST
+40.683188,-73.865795,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.683188,-73.865795",ATLANTIC AV/ELDERT LA
+40.685566,-73.857425,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.685566,-73.857425",ATLANTIC AV/84 ST
+40.686202,-73.855202,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.686202,-73.855202",ATLANTIC AV/86 ST
+40.686686,-73.853503,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.686686,-73.853503",ATLANTIC AV/88 ST
+40.68717,-73.851807,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.68717,-73.851807",ATLANTIC AV/90 ST
+40.687653,-73.850104,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.687653,-73.850104",ATLANTIC AV/92 ST
+40.688241,-73.848006,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.688241,-73.848006",ATLANTIC AV/WOODHAVEN BL
+40.688631,-73.846662,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.688631,-73.846662",ATLANTIC AV/96 ST
+40.694028,-73.827505,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.694028,-73.827505",ATLANTIC AV/LEFFERTS BL
+40.702306,-73.811385,400.0,30,15,5,"https://www.google.com/maps/search/?api=1&query=40.702306,-73.811385",JAMAICA AV/144 ST
+40.702584,-73.81414,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.702584,-73.81414",JAMAICA AV/QUEENS BL
+40.702316,-73.816848,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.702316,-73.816848",VAN WYCK EP SR W/JAMAICA AV
+40.701142,-73.816187,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.701142,-73.816187",VAN WYCK EP SR W/89 AV
+40.699542,-73.81534,400.0,6,5,1,"https://www.google.com/maps/search/?api=1&query=40.699542,-73.81534",VAN WYCK EP SR W/91 AV
+40.697212,-73.81445,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.697212,-73.81445",ATLANTIC AV/VAN WYCK EXP W
+40.694021,-73.828636,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.694021,-73.828636",ATLANTIC AV/LEFFERTS BL
+40.688668,-73.847502,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.688668,-73.847502",ATLANTIC AV/96 ST
+40.687999,-73.84986,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.687999,-73.84986",ATLANTIC AV/WOODHAVEN BL
+40.687695,-73.85093,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.687695,-73.85093",ATLANTIC AV/92 ST
+40.687185,-73.852716,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.687185,-73.852716",ATLANTIC AV/90 ST
+40.686731,-73.854329,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.686731,-73.854329",ATLANTIC AV/88 ST
+40.685968,-73.856984,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.685968,-73.856984",ATLANTIC AV/85 ST
+40.685375,-73.859069,400.0,1,1,0,"https://www.google.com/maps/search/?api=1&query=40.685375,-73.859069",ATLANTIC AV/82 ST
+40.700505,-73.807825,400.0,33,19,3,"https://www.google.com/maps/search/?api=1&query=40.700505,-73.807825",ARCHER AV/SUTPHIN BL
+40.698633,-73.813876,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.698633,-73.813876",ARCHER AV/VAN WYCK EP SR E
+40.699644,-73.81028,400.0,32,18,3,"https://www.google.com/maps/search/?api=1&query=40.699644,-73.81028",ARCHER AV/143 ST
+40.705576,-73.794776,400.0,37,37,0,"https://www.google.com/maps/search/?api=1&query=40.705576,-73.794776",JAMAICA AV/165 ST
+40.695081,-73.823279,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.695081,-73.823279",ATLANTIC AV/124 ST
+40.701905,-73.802063,400.0,31,28,3,"https://www.google.com/maps/search/?api=1&query=40.701905,-73.802063",ARCHER AV/158 ST
+40.696397,-73.816744,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.696397,-73.816744",ATLANTIC AV/132 ST
+40.702662,-73.798481,400.0,32,29,3,"https://www.google.com/maps/search/?api=1&query=40.702662,-73.798481",ARCHER AV/160 ST
+40.6858,-73.915743,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.6858,-73.915743",BROADWAY/HALSEY ST
+40.692386,-73.927876,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.692386,-73.927876",PATCHEN AV/LAFAYETTE AV
+40.704442,-73.792612,400.0,25,25,0,"https://www.google.com/maps/search/?api=1&query=40.704442,-73.792612",ARCHER AV/MERRICK BL
+40.704592,-73.792241,400.0,25,25,0,"https://www.google.com/maps/search/?api=1&query=40.704592,-73.792241",ARCHER AV/MERRICK BL

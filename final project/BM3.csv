@@ -1,0 +1,91 @@
+latitude,longitude,radius_searched,number_of_stops,number_of_bus_stops,number_of_metro_stops,google_maps_link,stop_name
+40.583864,-73.942887,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.583864,-73.942887",EMMONS AV / E 26 ST
+40.583276,-73.954241,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.583276,-73.954241",EMMONS AV / E 14 ST
+40.620754,-73.955621,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.620754,-73.955621",OCEAN AV / AV L
+40.639883,-73.967187,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.639883,-73.967187",CORTELYOU RD / WESTMINSTER RD
+40.643033,-73.960668,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.643033,-73.960668",CORTELYOU RD / E 19 ST
+40.643612,-73.97723,400.0,9,6,3,"https://www.google.com/maps/search/?api=1&query=40.643612,-73.97723",CHURCH AV / E 3 ST
+40.645256,-73.97336,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.645256,-73.97336",CHURCH AV / OCEAN PKY
+40.645523,-73.973344,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.645523,-73.973344",CHURCH AV / E 7 ST
+40.593001,-73.950032,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.593001,-73.950032",OCEAN AV / AV X
+40.595114,-73.950414,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.595114,-73.950414",OCEAN AV / AV W
+40.599613,-73.951253,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.599613,-73.951253",OCEAN AV / AV U
+40.604258,-73.952144,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.604258,-73.952144",OCEAN AV / AV S
+40.606566,-73.952551,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.606566,-73.952551",OCEAN AV / AV R
+40.610568,-73.953328,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.610568,-73.953328",OCEAN AV / KINGS HWY
+40.616362,-73.954423,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.616362,-73.954423",OCEAN AV / AV N
+40.62357,-73.955771,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.62357,-73.955771",OCEAN AV / AV K
+40.625985,-73.956229,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.625985,-73.956229",OCEAN AV / AV J
+40.628,-73.956624,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.628,-73.956624",OCEAN AV / AV I
+40.633171,-73.957618,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.633171,-73.957618",OCEAN AV / GLENWOOD RD
+40.632646,-73.957912,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.632646,-73.957912",OCEAN AV / GLENWOOD RD
+40.628273,-73.957084,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.628273,-73.957084",OCEAN AV / AV I
+40.625537,-73.956549,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.625537,-73.956549",OCEAN AV / AV J
+40.62311,-73.956067,400.0,7,7,0,"https://www.google.com/maps/search/?api=1&query=40.62311,-73.956067",OCEAN AV / AV K
+40.61124,-73.953851,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.61124,-73.953851",OCEAN AV / AV P
+40.606128,-73.952845,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.606128,-73.952845",OCEAN AV / AV R
+40.603781,-73.952413,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.603781,-73.952413",OCEAN AV / AV S
+40.594657,-73.950708,400.0,3,2,1,"https://www.google.com/maps/search/?api=1&query=40.594657,-73.950708",OCEAN AV / AV W
+40.643962,-73.9699,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.643962,-73.9699",CONEY ISLAND AV / BEVERLY RD
+40.643525,-73.97028,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.643525,-73.97028",CONEY ISLAND AV / BEVERLY RD
+40.642462,-73.961532,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.642462,-73.961532",CORTELYOU RD / E 18 ST
+40.646982,-73.980405,400.0,9,6,3,"https://www.google.com/maps/search/?api=1&query=40.646982,-73.980405",MCDONALD AV / CATON AV
+40.58423,-73.934777,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.58423,-73.934777",EMMONS AV / FORD ST
+40.584096,-73.938507,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.584096,-73.938507",EMMONS AV / NOSTRAND AV
+40.621172,-73.955327,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.621172,-73.955327",OCEAN AV / AV L
+40.616333,-73.954793,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.616333,-73.954793",OCEAN AV / AV N
+40.594203,-73.938037,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.594203,-73.938037",AV X / BATCHELDER ST
+40.586625,-73.933255,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.586625,-73.933255",SHORE PKY / BRAGG ST
+40.584346,-73.932453,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.584346,-73.932453",EMMONS AV / BRIGHAM ST
+40.599136,-73.951547,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.599136,-73.951547",OCEAN AV / AV U
+40.593213,-73.945561,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.593213,-73.945561",AV X / BEDFORD AV
+40.593524,-73.942777,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.593524,-73.942777",AV X / E 28 ST
+40.592748,-73.94979,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.592748,-73.94979",AV X / OCEAN AV
+40.589713,-73.93684,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.589713,-73.93684",BATCHELDER ST / AV Z
+40.587834,-73.936689,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.587834,-73.936689",BATCHELDER ST / VOORHIES AV
+40.639681,-73.968061,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.639681,-73.968061",CORTELYOU RD / STRATFORD ROAD
+40.583948,-73.934113,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.583948,-73.934113",EMMONS AV / COYLE ST
+40.583736,-73.939081,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.583736,-73.939081",EMMONS AV / NOSTRAND AV
+40.583555,-73.948123,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.583555,-73.948123",EMMONS AV / OCEAN AV
+40.639481,-73.959109,400.0,8,8,0,"https://www.google.com/maps/search/?api=1&query=40.639481,-73.959109",OCEAN AV / DITMAS AV
+40.586626,-73.936179,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.586626,-73.936179",SHORE PKY / BATCHELDER ST
+40.583524,-73.943245,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.583524,-73.943245",EMMONS AV / BEDFORD AV
+40.587871,-73.933867,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.587871,-73.933867",VOORHIES AV / BRAGG ST
+40.593359,-73.945612,400.0,2,2,0,"https://www.google.com/maps/search/?api=1&query=40.593359,-73.945612",AV X / BEDFORD AV
+40.59367,-73.942828,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.59367,-73.942828",AV X / E 28 ST
+40.583032,-73.95373,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.583032,-73.95373",EMMONS AV / SHORE BL
+40.583692,-73.949834,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.583692,-73.949834",EMMONS AV / E 19 ST
+40.584073,-73.932364,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.584073,-73.932364",EMMONS AV / BRAGG ST
+40.639169,-73.958803,400.0,6,6,0,"https://www.google.com/maps/search/?api=1&query=40.639169,-73.958803",OCEAN AV / DITMAS AV
+40.594008,-73.93851,400.0,4,4,0,"https://www.google.com/maps/search/?api=1&query=40.594008,-73.93851",AV X / BROWN ST
+40.589704,-73.937058,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.589704,-73.937058",BATCHELDER ST / AV Z
+40.708017,-74.012775,400.0,44,34,10,"https://www.google.com/maps/search/?api=1&query=40.708017,-74.012775",TRINITY PL/RECTOR ST
+40.709803,-74.011469,400.0,44,29,13,"https://www.google.com/maps/search/?api=1&query=40.709803,-74.011469",CHURCH ST / LIBERTY ST
+40.747888,-73.982775,400.0,66,63,3,"https://www.google.com/maps/search/?api=1&query=40.747888,-73.982775",MADISON AV / E 34 ST
+40.711867,-74.006112,400.0,43,29,14,"https://www.google.com/maps/search/?api=1&query=40.711867,-74.006112",PARK ROW/SPRUCE ST
+40.740033,-73.986163,400.0,42,35,7,"https://www.google.com/maps/search/?api=1&query=40.740033,-73.986163",E 23 ST / PARK AV S
+40.738697,-73.982969,400.0,33,30,3,"https://www.google.com/maps/search/?api=1&query=40.738697,-73.982969",E 23 ST / 3 AV
+40.737898,-73.981026,400.0,23,23,0,"https://www.google.com/maps/search/?api=1&query=40.737898,-73.981026",E 23 ST / 2 AV
+40.73705,-73.978653,400.0,20,20,0,"https://www.google.com/maps/search/?api=1&query=40.73705,-73.978653",E 23 ST / 1 AV
+40.738993,-73.983279,400.0,33,30,3,"https://www.google.com/maps/search/?api=1&query=40.738993,-73.983279",E 23 ST / 3 AV
+40.760058,-73.96725,400.0,61,50,10,"https://www.google.com/maps/search/?api=1&query=40.760058,-73.96725",E 57 ST / 3 AV
+40.708771,-74.002757,400.0,22,20,2,"https://www.google.com/maps/search/?api=1&query=40.708771,-74.002757",PEARL ST / PECK SLIP
+40.751633,-73.980114,400.0,68,56,7,"https://www.google.com/maps/search/?api=1&query=40.751633,-73.980114",MADISON AV / E 40 ST
+40.76126,-73.969737,400.0,76,69,7,"https://www.google.com/maps/search/?api=1&query=40.76126,-73.969737",E 57 ST / LEXINGTON AV
+40.756697,-73.976284,400.0,70,56,6,"https://www.google.com/maps/search/?api=1&query=40.756697,-73.976284",MADISON AV / E 48 ST
+40.740394,-73.986612,400.0,43,36,7,"https://www.google.com/maps/search/?api=1&query=40.740394,-73.986612",E 23 ST / PARK AV S
+40.705789,-74.006696,400.0,37,19,4,"https://www.google.com/maps/search/?api=1&query=40.705789,-74.006696",WATER ST / PINE ST
+40.744106,-73.9855,400.0,47,40,7,"https://www.google.com/maps/search/?api=1&query=40.744106,-73.9855",MADISON AV/E 28 ST
+40.743613,-73.988216,400.0,49,38,10,"https://www.google.com/maps/search/?api=1&query=40.743613,-73.988216",5 AV / W 26 ST
+40.751679,-73.982272,400.0,76,68,8,"https://www.google.com/maps/search/?api=1&query=40.751679,-73.982272",5 AV / W 39 ST
+40.757419,-73.978122,400.0,82,68,6,"https://www.google.com/maps/search/?api=1&query=40.757419,-73.978122",5 AV / W 48 ST
+40.76116,-73.975377,400.0,71,67,4,"https://www.google.com/maps/search/?api=1&query=40.76116,-73.975377",5 AV / W 54 ST
+40.760291,-73.973714,400.0,75,69,6,"https://www.google.com/maps/search/?api=1&query=40.760291,-73.973714",MADISON AV / E 54 ST
+40.746027,-73.986439,400.0,63,55,7,"https://www.google.com/maps/search/?api=1&query=40.746027,-73.986439",5 AV / W 30 ST
+40.713187,-74.009252,400.0,45,30,13,"https://www.google.com/maps/search/?api=1&query=40.713187,-74.009252",CHURCH ST/PARK PL
+40.704472,-74.014153,400.0,47,38,8,"https://www.google.com/maps/search/?api=1&query=40.704472,-74.014153",STATE ST / BATTERY PL
+40.703345,-74.01037,400.0,50,25,8,"https://www.google.com/maps/search/?api=1&query=40.703345,-74.01037",WATER ST / COENTIES SLIP EAST
+40.704642,-74.016284,400.0,43,37,6,"https://www.google.com/maps/search/?api=1&query=40.704642,-74.016284",BATTERY PL /WEST ST
+40.71266,-74.009635,400.0,45,30,13,"https://www.google.com/maps/search/?api=1&query=40.71266,-74.009635",CHURCH ST / BARCLAY ST
+40.709861,-74.00223,400.0,28,20,8,"https://www.google.com/maps/search/?api=1&query=40.709861,-74.00223",FRANKFORT ST / PEARL ST
+40.759729,-73.966051,400.0,61,50,10,"https://www.google.com/maps/search/?api=1&query=40.759729,-73.966051",E 57 ST / 2 AV

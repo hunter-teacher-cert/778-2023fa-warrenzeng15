@@ -1,0 +1,68 @@
+latitude,longitude,radius_searched,number_of_stops,number_of_bus_stops,number_of_metro_stops,google_maps_link,stop_name
+40.837027,-73.940079,400.0,12,9,3,"https://www.google.com/maps/search/?api=1&query=40.837027,-73.940079",ST NICHOLAS AV/W 163 ST
+40.841182,-73.939778,400.0,13,10,3,"https://www.google.com/maps/search/?api=1&query=40.841182,-73.939778",BROADWAY/W 168 ST
+40.837543,-73.940115,400.0,12,9,3,"https://www.google.com/maps/search/?api=1&query=40.837543,-73.940115",ST NICHOLAS AV/W 164 ST
+40.843509,-73.939006,400.0,11,8,3,"https://www.google.com/maps/search/?api=1&query=40.843509,-73.939006",BROADWAY/W 171 ST
+40.846487,-73.938292,400.0,21,20,1,"https://www.google.com/maps/search/?api=1&query=40.846487,-73.938292",BROADWAY/W 175 ST
+40.848425,-73.937697,400.0,22,20,2,"https://www.google.com/maps/search/?api=1&query=40.848425,-73.937697",BROADWAY/W 178 ST
+40.846657,-73.938432,400.0,21,20,1,"https://www.google.com/maps/search/?api=1&query=40.846657,-73.938432",BROADWAY/W 176 ST
+40.843646,-73.939171,400.0,11,8,3,"https://www.google.com/maps/search/?api=1&query=40.843646,-73.939171",BROADWAY/W 172 ST
+40.813745,-73.955868,400.0,15,14,1,"https://www.google.com/maps/search/?api=1&query=40.813745,-73.955868",AMSTERDAM AV/W 125 ST
+40.816685,-73.953761,400.0,14,14,0,"https://www.google.com/maps/search/?api=1&query=40.816685,-73.953761",AMSTERDAM AV/W 131 ST
+40.816009,-73.954424,400.0,15,14,1,"https://www.google.com/maps/search/?api=1&query=40.816009,-73.954424",AMSTERDAM AV/W 131 ST
+40.814859,-73.95525,400.0,16,15,1,"https://www.google.com/maps/search/?api=1&query=40.814859,-73.95525",AMSTERDAM AV/W 129 ST
+40.819316,-73.95184,400.0,13,9,4,"https://www.google.com/maps/search/?api=1&query=40.819316,-73.95184",AMSTERDAM AV/W 135 ST
+40.821041,-73.950578,400.0,10,9,1,"https://www.google.com/maps/search/?api=1&query=40.821041,-73.950578",AMSTERDAM AV/W 138 ST
+40.824241,-73.94826,400.0,14,9,5,"https://www.google.com/maps/search/?api=1&query=40.824241,-73.94826",AMSTERDAM AV/W 143 ST
+40.828108,-73.945426,400.0,10,6,4,"https://www.google.com/maps/search/?api=1&query=40.828108,-73.945426",AMSTERDAM AV/W 149 ST
+40.831683,-73.942827,400.0,11,8,3,"https://www.google.com/maps/search/?api=1&query=40.831683,-73.942827",AMSTERDAM AV/W 155 ST
+40.850064,-73.935752,400.0,22,20,2,"https://www.google.com/maps/search/?api=1&query=40.850064,-73.935752",BROADWAY/W 181 ST
+40.856963,-73.932382,400.0,8,6,2,"https://www.google.com/maps/search/?api=1&query=40.856963,-73.932382",BROADWAY/FAIRVIEW AV
+40.858522,-73.93156,400.0,7,6,1,"https://www.google.com/maps/search/?api=1&query=40.858522,-73.93156",BROADWAY/W 193 ST
+40.86087,-73.930498,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.86087,-73.930498",BROADWAY/W 196 ST
+40.862909,-73.929874,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.862909,-73.929874",BROADWAY/SHERMAN AV
+40.86174,-73.930223,400.0,3,3,0,"https://www.google.com/maps/search/?api=1&query=40.86174,-73.930223",BROADWAY/SHERMAN AV
+40.859744,-73.93122,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.859744,-73.93122",BROADWAY/BENNETT AV
+40.853917,-73.933943,400.0,5,5,0,"https://www.google.com/maps/search/?api=1&query=40.853917,-73.933943",BROADWAY/W 187 ST
+40.852515,-73.934671,400.0,12,10,2,"https://www.google.com/maps/search/?api=1&query=40.852515,-73.934671",BROADWAY/W 185 ST
+40.849923,-73.936046,400.0,22,20,2,"https://www.google.com/maps/search/?api=1&query=40.849923,-73.936046",BROADWAY/W 181 ST
+40.833351,-73.941776,400.0,11,8,3,"https://www.google.com/maps/search/?api=1&query=40.833351,-73.941776",AMSTERDAM AV/W 158 ST
+40.831932,-73.942813,400.0,11,8,3,"https://www.google.com/maps/search/?api=1&query=40.831932,-73.942813",AMSTERDAM AV/W 156 ST
+40.829745,-73.944372,400.0,10,8,2,"https://www.google.com/maps/search/?api=1&query=40.829745,-73.944372",AMSTERDAM AV/W 152 ST
+40.826908,-73.946446,400.0,14,9,5,"https://www.google.com/maps/search/?api=1&query=40.826908,-73.946446",AMSTERDAM AV/W 148 ST
+40.824949,-73.947888,400.0,14,9,5,"https://www.google.com/maps/search/?api=1&query=40.824949,-73.947888",AMSTERDAM AV/W 145 ST
+40.823629,-73.948866,400.0,10,9,1,"https://www.google.com/maps/search/?api=1&query=40.823629,-73.948866",AMSTERDAM AV/W 143 ST
+40.820487,-73.95113,400.0,10,9,1,"https://www.google.com/maps/search/?api=1&query=40.820487,-73.95113",AMSTERDAM AV/W 138 ST
+40.812602,-73.955693,400.0,18,14,4,"https://www.google.com/maps/search/?api=1&query=40.812602,-73.955693",W 125 ST/AMSTERDAM AV
+40.85622,-73.933026,400.0,8,6,2,"https://www.google.com/maps/search/?api=1&query=40.85622,-73.933026",BROADWAY/W 190 ST
+40.865142,-73.928072,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.865142,-73.928072",BROADWAY/RIVERSIDE DR
+40.848648,-73.937357,400.0,22,20,2,"https://www.google.com/maps/search/?api=1&query=40.848648,-73.937357",BROADWAY/W 178 ST
+40.871953,-73.913137,400.0,6,4,1,"https://www.google.com/maps/search/?api=1&query=40.871953,-73.913137",BROADWAY/W 219 ST
+40.840879,-73.939441,400.0,13,10,3,"https://www.google.com/maps/search/?api=1&query=40.840879,-73.939441",ST NICHOLAS AV/W 167 ST
+40.87245,-73.91256,400.0,7,5,1,"https://www.google.com/maps/search/?api=1&query=40.87245,-73.91256",BROADWAY/W 220 ST
+40.863519,-73.93004,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.863519,-73.93004",BROADWAY/DONGAN PL
+40.835239,-73.940199,400.0,8,6,2,"https://www.google.com/maps/search/?api=1&query=40.835239,-73.940199",AMSTERDAM AV/W 161 ST
+40.835536,-73.940181,400.0,8,6,2,"https://www.google.com/maps/search/?api=1&query=40.835536,-73.940181",AMSTERDAM AV/W 161 ST
+40.854452,-73.933487,400.0,6,5,1,"https://www.google.com/maps/search/?api=1&query=40.854452,-73.933487",BROADWAY/W 187 ST
+40.833638,-73.941374,400.0,11,8,3,"https://www.google.com/maps/search/?api=1&query=40.833638,-73.941374",AMSTERDAM AV/W 158 ST
+40.829905,-73.944107,400.0,10,8,2,"https://www.google.com/maps/search/?api=1&query=40.829905,-73.944107",AMSTERDAM AV/W 152 ST
+40.818605,-73.952522,400.0,13,12,1,"https://www.google.com/maps/search/?api=1&query=40.818605,-73.952522",AMSTERDAM AV/W 135 ST
+40.865323,-73.927186,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.865323,-73.927186",DYCKMAN ST/BROADWAY
+40.863379,-73.925988,400.0,5,3,2,"https://www.google.com/maps/search/?api=1&query=40.863379,-73.925988",DYCKMAN ST/SHERMAN AV
+40.861291,-73.92465,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.861291,-73.92465",DYCKMAN ST/FT. GEORGE HILL
+40.859553,-73.9224,400.0,3,2,1,"https://www.google.com/maps/search/?api=1&query=40.859553,-73.9224",10 AV/HARLEM RIVER DR
+40.861465,-73.921028,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.861465,-73.921028",10 AV/W 202 ST
+40.864243,-73.919017,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.864243,-73.919017",10 AV/W 207 ST
+40.866604,-73.917237,400.0,8,6,2,"https://www.google.com/maps/search/?api=1&query=40.866604,-73.917237",10 AV/SHERMAN AV
+40.869287,-73.915263,400.0,5,4,1,"https://www.google.com/maps/search/?api=1&query=40.869287,-73.915263",10 AV/W 215 ST
+40.869019,-73.915699,400.0,8,6,2,"https://www.google.com/maps/search/?api=1&query=40.869019,-73.915699",10 AV/W 214 ST
+40.86707,-73.917052,400.0,8,6,2,"https://www.google.com/maps/search/?api=1&query=40.86707,-73.917052",10 AV/W 211 ST
+40.864759,-73.918751,400.0,8,6,2,"https://www.google.com/maps/search/?api=1&query=40.864759,-73.918751",10 AV/W 207 ST
+40.861233,-73.921398,400.0,2,1,1,"https://www.google.com/maps/search/?api=1&query=40.861233,-73.921398",10 AV/W 202 ST
+40.859308,-73.923155,400.0,3,2,1,"https://www.google.com/maps/search/?api=1&query=40.859308,-73.923155",DYCKMAN ST/10 AV
+40.863489,-73.925907,400.0,5,3,2,"https://www.google.com/maps/search/?api=1&query=40.863489,-73.925907",DYCKMAN ST/SHERMAN AV
+40.86154,-73.924652,400.0,4,3,1,"https://www.google.com/maps/search/?api=1&query=40.86154,-73.924652",DYCKMAN ST/NAGLE AV
+40.852193,-73.934658,400.0,12,10,2,"https://www.google.com/maps/search/?api=1&query=40.852193,-73.934658",BROADWAY/W 184 ST
+40.825623,-73.947214,400.0,14,9,5,"https://www.google.com/maps/search/?api=1&query=40.825623,-73.947214",AMSTERDAM AV/W 145 ST
+40.81021,-73.952924,400.0,16,12,4,"https://www.google.com/maps/search/?api=1&query=40.81021,-73.952924",ST NICHOLAS AV/W 124 ST
+40.810301,-73.952884,400.0,17,13,4,"https://www.google.com/maps/search/?api=1&query=40.810301,-73.952884",ST NICHOLAS AV/W 124 ST
