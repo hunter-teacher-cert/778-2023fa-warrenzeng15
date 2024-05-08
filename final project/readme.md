@@ -1,5 +1,6 @@
 Contents are everything I worked on with Emile for our final project
 
+For context, please view the PowerPoint slides that is titled, "Final Presentation - City Transportation Analysis"
 
 Here are also the maps that showcase the results we got:  
   
