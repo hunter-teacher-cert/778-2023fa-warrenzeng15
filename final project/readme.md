@@ -1,6 +1,9 @@
-Contents are everything I worked on with Emile for our final project
+## Ethics Final Project - City Transportation
 
-For context, please view the PowerPoint slides that is titled, "Final Presentation - City Transportation Analysis"
+This is a project I worked on with Emile Jean Baptiste.
+It involved writing a program that would help us analyze bus and train routes, which we could use to draw conclusions on where our city's transportation needs more help.
+
+For more context, please view the PowerPoint slides that is titled, "Final Presentation - City Transportation Analysis"
 
 Here are also the maps that showcase the results we got:  
   
